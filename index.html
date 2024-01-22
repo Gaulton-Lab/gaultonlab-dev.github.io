@@ -1,6 +1,41 @@
 ---
 layout: splash
 author_profile: false
+feature_row0-1:
+  - image_path: assets/images/single_cell.png
+    alt: "Single cell epigenomics of human tissues"
+    title: "<span style='font-size: 0.8em;'>Single cell epigenomics of human tissues</span>"
+    excerpt: "<div style='font-size: 1.3em;'>Because the vast majority of disease causing variants lie in non-coding regions of the human genome, understanding gene regulation is critical for understanding disease risk. Our lab is particularly interested in regions of the genome which influence the expression of nearby genes, aka cis-regulatory elements (CREs), and the regulatory networks they create. We have many completed and ongoing projects which use single cell methods to characterize the epigenome of human tissues including the pancreas, lungs, heart, liver, peripheral blood mononuclear cells (PBMCs), and more.</div>"
+    url: "https://www.isletgenomics.org"
+    btn_label: "Resources"
+    btn_class: "btn--primary"
+    image_size: 50%
+  - image_path: assets/images/islet_stress.png
+    alt: "Islet Stress"
+    title: "<span style='font-size: 0.8em;'>Islet stressors</span>"
+    excerpt: "<div style='font-size: 1.3em;'>Environmental stressors are predicted to play a role in the pathogenesis of diabetes, but their effects on the islet transcriptome and epigenome is largely unknown. Our lab uses a variety of small molecules and proteins to perform in vitro modelling of environmental stressors that pancreatic beta cells might be subject to, such as oxidative or ER stress. Downstream genetic analyses (scRNA-seq, snATAC-seq, etc.) help us to understand the effects of these stressors and how they relate to diabetes risk in humans.</div>"
+    url: ""
+    btn_label: "GitHub"
+    btn_class: "btn--primary"
+    image_size: 50%
+feature_row0-2:
+  - image_path: assets/images/pop_gen.png
+    alt: "Population genetics"
+    title: "<span style='font-size: 0.8em;'>Population genetics</span>"
+    excerpt: "<div style='font-size: 1.3em;'>Diabetes is the most common metabolic disease worldwide. Our lab takes a population genetics approach to understanding underlying genetic risk in both type 1 and type 2 diabetes. We previously generated the largest genome-wide association study (GWAS) for type 1 diabetes to date and our recent work in this area includes generation of polygenic risk scores for disease along with quantitative trait loci mapping, particularly in human pancreatic islets.</div>"
+    url: "https://t1grs.org"
+    btn_label: "Resources"
+    btn_class: "btn--primary"
+    image_size: 50%
+  - image_path: assets/images/cmdga.png
+    alt: "CMDGA"
+    title: "<span style='font-size: 0.8em;'>CMDGA</span>"
+    excerpt: "<div style='font-size: 1.3em;'>Our lab takes part in several collaborative efforts to improve access and availability of scientific data and analytical pipelines. In collaboration with the Broad Institute, members of our lab work on maintaining the Common Metabolic Diseases Genome Atlas (CMDGA) and the Knowledge Portal. Additionally, we aim to create resources and tools for the community to engage with our lab’s primary data.</div>"
+    url: "https://cmdga.org"
+    btn_label: "Resources"
+    btn_class: "btn--primary"
+    image_size: 50%
+
 ---
 <head>
   <link rel="stylesheet" type="text/css" href="animation.css">
@@ -25,3 +60,6 @@ author_profile: false
 
 Our research interests include mapping gene regulatory programs involved in type 1 diabetes (T1D) and other complex diseases, modulating the activity of gene regulatory elements as therapies to prevent or treat T1D, and identifying novel biomarkers and improving risk prediction of T1D.
 </p>
+<h2 style="text-align: center;">Projects</h2>
+{% include feature_row id="feature_row0-1" type="center" class="full" %}
+{% include feature_row id="feature_row0-2" type="center" class="full" %}
