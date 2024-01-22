@@ -101,7 +101,7 @@
   overflow: hidden;
 
   img {
-    width: 50%;
+    width: 35%;
   }
 }
 
@@ -319,7 +319,7 @@ a.btn::before {
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(4 of 12);
+    width: span(6 of 12);
 
     &:nth-child(2n + 1) {
       clear: both;
@@ -439,7 +439,7 @@ a.btn::before {
     float: left;
     margin-left: 0;
     margin-right: 0;
-    width: 30%;
+    width: 100%;
     clear: both;
     font-size: 1.125em;
 
