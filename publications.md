@@ -8,6 +8,7 @@ gallery1:
     image_style: "width: 150%;"
 ---
 {% include gallery id="gallery1" class="half" caption="The Cell Metabolism cover image that accompanies the article illustrates how the T2DKP integrates multiple types of genetic and genomic data to provide insights that can be the building blocks for new therapeutics." %}
+<div style="font-size: 18px;">
 List of published work in:  
 [Google scholar](https://scholar.google.com/citations?user=BL0L_VQAAAAJ&hl=en&oi=ao)  
 [NCBI PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=gaulton%20k)  
@@ -640,3 +641,4 @@ PMC2570412.
 **Gaulton KJ**, Mohlke KL, Vision TJ. A computational system to select candidate 
 genes for complex human traits. Bioinformatics. 2007 May 1;23(9):1132-40. Epub
 2007 Jan 19. PubMed PMID: 17237041.
+</div>
