@@ -11,6 +11,8 @@
   max-height: 450px;
   min-width: 300px;
   color: #eee;
+  background: url('./banner.png') no-repeat center center; /* Added banner image */
+  background-size: cover; /* Ensures the background image covers the entire header */
 }
 
 .header a {
