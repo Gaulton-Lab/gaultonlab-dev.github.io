@@ -47,39 +47,3 @@ feature_row0-6:
 {% include feature_row_original id="feature_row0-4" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-5" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-6" type="center" class="full" %}
-<h6 style="text-align: center;">Former lab members</h6>
-Ariana Golshani, Undergraduate
-Paola Benaglio, Project scientist
-Katha Korgaonkar, Lab assistant
-Clara Hu, Rotation student
-Daniela Perry, Rotation student
-Jaspreet Kaur, Postdoc
-Yleia Sanchez, Undergraduate
-Sharlene Diep, Undergraduate
-Elisha Beebe, Lab assistant
-Anthony Aylward, BISB graduate student
-Sharvari Narendra, Bioinformatics staff
-Niyati Panchal, Lab assistant
-Sigal Shaul, CS Master’s student
-Joshua Chiou, BMS graduate student
-Karla Martinez, STARS summer student
-Hermak Banda, STARS summer student
-Divya Devulapalli, Undergraduate
-Serina Huang, Undergraduate
-Allison Deogaygay, Undergraduate
-Natalie DeForest, Rotation student
-Andres Padilla, STARS summer student
-Whitney Vien, Masters student
-Samuel Morabito, Lab assistant
-Griselda Ruiz, summer student
-Eamon Aalipour, high school volunteer
-Ryan Hillary, rotation student
-Bill Greenwald, rotation student
-Bryttany Weary, STARS summer student
-Isis Diaz, summer student
-Nikita Kadakia, lab manager
-Unnati Ghandi, volunteer
-Olivia Golston, summer student
-Hudson Cooper, undergraduate
-Christopher Wong, volunteer
-Joshua Ibarra, lab assistant
