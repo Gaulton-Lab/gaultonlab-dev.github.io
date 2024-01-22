@@ -4,6 +4,7 @@ title: "Lab Fun"
 excerpt: "Gaulton Lab Fun"
 header:
   image: /assets/images/Christmas_Party_2021.JPG
+  image_style: "width: 150%;"
 gallery1:
   - url: /assets/images/ASHG_Houston_2019.jpeg
     image_path: assets/images/ASHG_Houston_2019.jpeg
@@ -24,17 +25,15 @@ gallery2:
   - url: /assets/images/CPK_Lunch_2022.jpg
     image_path: assets/images/CPK_Lunch_2022.jpg
     alt: "colors"
-gallery2:    
+gallery3:    
   - url: /assets/images/JDRF_walk_2022.jpg
     image_path: assets/images/JDRF_walk_2022.jpg
     alt: "Swiss_Riveria"
   - url: /assets/images/Sierra_Bday_2023.jpg
     image_path: assets/images/Sierra_Bday_2023.jpg
     alt: "Lavande_en_ Provence"
-  - url: /assets/images/img_6623.jpg
-    image_path: assets/images/img_6623.jpg
-    alt: "colors"
 ---
 The Gaulton Lab fun culture is a lively mix of science and celebrations. We're convinced that throwing a party now and then, and chatting about science stuff in a laid-back way, really shakes up the daily routine 
 {% include gallery id="gallery1" class="full" %}
 {% include gallery id="gallery2" class="full" %}
+{% include gallery id="gallery3" class="full" %}
