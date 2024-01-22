@@ -95,15 +95,6 @@
     width: 30%;
   }
 }
-.archive__item-teaser-people {
-  position: relative;
-  border-radius: $border-radius;
-  overflow: hidden;
-
-  img {
-    width: 50%;
-  }
-}
 .archive__item-teaser-original {
   position: relative;
   border-radius: $border-radius;
@@ -111,6 +102,15 @@
 
   img {
     width: 35%;
+  }
+}
+.archive__item-teaser-update {
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 50%;
   }
 }
 
@@ -307,17 +307,16 @@ a.btn::before {
         font-size: 1em;
     }
 }
-
-/*
-   Features people
-   ========================================================================== */
-.feature__wrapper_people {
+// ==========================================================================
+// Features update
+// ==========================================================================
+.feature__wrapper_update {
     @include clearfix();
     margin-bottom: 2em;
     text-align: center;
 }
 
-.feature__item_people {
+.feature__item_update {
     position: relative;
     margin-bottom: 2em;
     font-size: 1.125em;
@@ -362,6 +361,7 @@ a.btn::before {
         font-size: 1em;
     }
 }
+
 /*
    Features original
    ========================================================================== */
@@ -509,7 +509,7 @@ a.btn::before {
 
     .archive__item {
       float: left;
-      width: 30%;
+      width: 100%;
     }
 
     .archive__item-teaser {
