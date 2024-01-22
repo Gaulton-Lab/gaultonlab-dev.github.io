@@ -37,6 +37,13 @@ gallery3:
   <link rel="stylesheet" type="text/css" href="animation_fun.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
+<div class="header">
+  <div class="info">
+    <div class="meta">
+    </div>
+  </div>
+</div>
+<br>
 The Gaulton Lab fun culture is a lively mix of science and celebrations. We're convinced that throwing a party now and then, and chatting about science stuff in a laid-back way, really shakes up the daily routine 
 {% include gallery id="gallery1" class="full" %}
 {% include gallery id="gallery2" class="full" %}
