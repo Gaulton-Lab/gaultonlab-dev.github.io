@@ -14,5 +14,5 @@ feature_row0-2:
 
 ---
 <h2 style="text-align: center;">Lab Members</h2>
-{% include feature_row_update id="feature_row0-1" type="center" class="full" %}
-{% include feature_row_update id="feature_row0-2" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-1" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-2" type="center" class="full" %}
