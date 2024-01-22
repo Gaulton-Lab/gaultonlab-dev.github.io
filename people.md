@@ -42,11 +42,11 @@ feature_row0-6:
 ---
 <h2 style="text-align: center;">Lab Members</h2>
 {% include feature_row_original id="feature_row0-1" type="center" class="full" %}
-{% include feature_row_oroginal id="feature_row0-2" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-2" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-3" type="center" class="full" %}
-{% include feature_row_oroginal id="feature_row0-4" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-4" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-5" type="center" class="full" %}
-{% include feature_row_oroginal id="feature_row0-6" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-6" type="center" class="full" %}
 <h6 style="text-align: center;">Former lab members</h6>
 Ariana Golshani, Undergraduate
 Paola Benaglio, Project scientist
