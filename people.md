@@ -47,8 +47,3 @@ feature_row0-6:
 {% include feature_row_original id="feature_row0-4" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-5" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-6" type="center" class="full" %}
-<h2 style="text-align: center;">Former Lab Members</h2>
-<div style='font-size: 1.3em;'>Graduate: Anthony Aylward (2016-2021), Joshua Chiou (2017-2021), Sigal Shaul (2019), Whitney Vien (2017).</div>
-<div style='font-size: 1.3em;'>Postdoctoral: Paola Benaglio (2018-2022), Jaspreet Kaur (2018-2021)</div>
-<div style='font-size: 1.3em;'>Undergraduate:  Jovina Djulamsah (2022-2023), Kennedy Vanderstel (2021-2022), Ariana Golshani (2019-2022), Sharlene Diep (2019-2021), Katha Kaogonkar (2019-2020), Elisha Beebe (2018-2019), Serina Huang (2016-2018), Samuel Morabito (2016-2018), Mei-Lin Okino (2016-2018), Alison Deogaygay (2017-2019), Hudson Cooper (2016-2017), Unnati Ghandi (2017), Christopher Wong (2017)</div>
-<div style='font-size: 1.3em;'>Summer students: Bryttany Weary, Isis Diaz, Andres Padilla, Griselda Ruiz, Hermak Banda, Karla Martinez, Eamon Aalipour, Olivia Golston</div>
