@@ -316,7 +316,7 @@ a.btn::before {
     &--center {
         @include breakpoint($small) {
             float: left; // Elements float next to each other
-            width: 50%; // Each item occupies half of the container's width
+            width: 30%; // Each item occupies half of the container's width
         }
     }
 
