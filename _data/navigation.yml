@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "People"
+    url: /people/
   - title: "Publications"
     url: /publications/
   - title: "Lab Fun"

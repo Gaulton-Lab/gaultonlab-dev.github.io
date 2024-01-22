@@ -8,7 +8,7 @@ gallery1:
     image_style: "width: 150%;"
 ---
 {% include gallery id="gallery1" class="half" caption="The Cell Metabolism cover image that accompanies the article illustrates how the T2DKP integrates multiple types of genetic and genomic data to provide insights that can be the building blocks for new therapeutics." %}
-<h6>List of published work in:</h6>
+<h6 style="font-size:18px;">List of published work in:</h6>
 <ul>
     <li><a href="https://scholar.google.com/citations?user=BL0L_VQAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
     <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=gaulton%20k">NCBI PubMed</a></li>
