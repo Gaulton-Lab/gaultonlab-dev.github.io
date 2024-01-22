@@ -182,13 +182,13 @@
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: #6b308f;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+	color: #6b308f;
     }
 
     &.site-logo {
@@ -227,7 +227,7 @@
     -ms-flex: 1;
     flex: 1;
     overflow: hidden;
-
+    color: #6b308f;
     li {
       -webkit-box-flex: 0;
       -ms-flex: none;
