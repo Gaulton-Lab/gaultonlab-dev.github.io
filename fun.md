@@ -32,6 +32,9 @@ gallery3:
   - url: /assets/images/Sierra_Bday_2023.jpg
     image_path: assets/images/Sierra_Bday_2023.jpg
     alt: "Lavande_en_ Provence"
+  - url: /assets/images/IMG_6623.jpg
+    image_path: assets/images/IMG_6623.jpg
+    alt: "Lavande_en_ Provence"
 ---
 The Gaulton Lab fun culture is a lively mix of science and celebrations. We're convinced that throwing a party now and then, and chatting about science stuff in a laid-back way, really shakes up the daily routine 
 {% include gallery id="gallery1" class="full" %}
