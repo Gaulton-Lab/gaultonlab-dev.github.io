@@ -95,6 +95,15 @@
     width: 30%;
   }
 }
+.archive__item-teaser-people {
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 50%;
+  }
+}
 .archive__item-teaser-original {
   position: relative;
   border-radius: $border-radius;
@@ -298,6 +307,61 @@ a.btn::before {
         font-size: 1em;
     }
 }
+
+/*
+   Features people
+   ========================================================================== */
+.feature__wrapper_people {
+    @include clearfix();
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.feature__item_people {
+    position: relative;
+    margin-bottom: 2em;
+    font-size: 1.125em;
+
+    &--center {
+        @include breakpoint($small) {
+            float: left; // Elements float next to each other
+            width: 30%; // Each item occupies half of the container's width
+        }
+    }
+
+    .feature__item-teaser, .archive__item-body {
+        max-height: 200px;
+        overflow: hidden;
+    }
+}
+
+.archive__item-body {
+    padding-left: gutter(1 of 12);
+    padding-right: gutter(1 of 12);
+}
+
+a.btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+// Archive layout adjustments
+.archive {
+    .feature__wrapper {
+        .archive__item-title {
+            margin-top: 0.25em;
+            font-size: 1em;
+        }
+    }
+
+    .feature__item, .feature__item--left, .feature__item--center, .feature__item--right {
+        font-size: 1em;
+    }
+}
 /*
    Features original
    ========================================================================== */
@@ -445,7 +509,7 @@ a.btn::before {
 
     .archive__item {
       float: left;
-      width: 100%;
+      width: 30%;
     }
 
     .archive__item-teaser {
