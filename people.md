@@ -33,12 +33,12 @@ feature_row0-5:
   - image_path: assets/images/Luca.png
     excerpt: "<div style='font-size: 1.3em;'>Luca Tucciarone</div>"<div style='font-size: 1.3em;'>Postdoc</div><div style='font-size: 1.3em;'>Sapienza University, PhD Morphogenesis and Tissue engineering</div>"
   - image_path: assets/images/Kennedy.png
-    excerpt: "<div style='font-size: 1.3em;'>Kennedy Vanderstel</div>"<div style='font-size: 1.3em;'>Research Associate</div><div style='font-size: 1.3em;'>UCSD, BS Human Biology</div>
+    excerpt: "<div style='font-size: 1.3em;'>Kennedy Vanderstel</div>"<div style='font-size: 1.3em;'>Research Associate</div><div style='font-size: 1.3em;'>UCSD, BS Human Biology</div>"
   - image_path: assets/images/Yuna.png"
-    excerpt: "<div style='font-size: 1.3em;'>Yuna Lee</div>"<div style='font-size: 1.3em;'>Research Associate</div><div style='font-size: 1.3em;'>UCSD, BS Biology: Bioinformatics</div>
+    excerpt: "<div style='font-size: 1.3em;'>Yuna Lee</div>"<div style='font-size: 1.3em;'>Research Associate</div><div style='font-size: 1.3em;'>UCSD, BS Biology: Bioinformatics</div>"
 feature_row0-6:    
   - image_path: assets/images/Bailey.png"
-    excerpt: "<div style='font-size: 1.3em;'>Bailey Omahony</div>"<div style='font-size: 1.3em;'>Undergraduate researcher</div><div style='font-size: 1.3em;'></div>    
+    excerpt: "<div style='font-size: 1.3em;'>Bailey Omahony</div>"<div style='font-size: 1.3em;'>Undergraduate researcher</div><div style='font-size: 1.3em;'></div>"    
 ---
 <h2 style="text-align: center;">Lab Members</h2>
 {% include feature_row_original id="feature_row0-1" type="center" class="full" %}
