@@ -1,10 +1,7 @@
 ---
-layout: splash
+layout: single
 title: "Lab Fun"
 excerpt: "Gaulton Lab Fun"
-header:
-  image: /assets/images/Christmas_Party_2021.JPG
-  image_style: "width: 150%;"
 gallery1:
   - url: /assets/images/ASHG_Houston_2019.jpeg
     image_path: assets/images/ASHG_Houston_2019.jpeg
