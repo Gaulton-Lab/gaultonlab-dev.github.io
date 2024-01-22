@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Lab Fun"
 excerpt: "Gaulton Lab Fun"
 header:
@@ -36,6 +36,10 @@ gallery3:
     image_path: assets/images/IMG_6623.jpg
     alt: "Lavande_en_ Provence"
 ---
+<head>
+  <link rel="stylesheet" type="text/css" href="animation_fun.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
 The Gaulton Lab fun culture is a lively mix of science and celebrations. We're convinced that throwing a party now and then, and chatting about science stuff in a laid-back way, really shakes up the daily routine 
 {% include gallery id="gallery1" class="full" %}
 {% include gallery id="gallery2" class="full" %}
