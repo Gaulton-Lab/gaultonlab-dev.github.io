@@ -2,8 +2,6 @@
 toc: true
 toc_label: "Islet Genomics"
 toc_icon: "cog"
-header:
-  image: assets/images/isletgenomics.png    
 ---
 
 <h6 style="font-size:18px;">This site hosts data and resources from studies describing gene regulation in human pancreatic islet cell types to understand islet cell type function and changes in disease</h6>
