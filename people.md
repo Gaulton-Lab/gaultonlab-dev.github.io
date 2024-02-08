@@ -41,6 +41,9 @@ feature_row0-6:
     excerpt: "<div style='font-size: 1.3em;'>Bailey Omahony</div><div style='font-size: 1.3em;'>Undergraduate Researcher</div>"
   - image_path: assets/images/Emily.png
     excerpt: "<div style='font-size: 1.3em;'>Emily Griffin</div><div style='font-size: 1.3em;'>Postdoc</div><div style='font-size: 1.3em;'>USC, BS Neuroscience; UCSD, PhD Biomedical Sciences</div>"
+  - image_path: assets/images/Rebecca_Tseng.png
+    excerpt: "<div style='font-size: 1.3em;'>Rebecca_Tseng</div><div style='font-size: 1.3em;'>Undergraduate Researcher</div>"
+
 ---
 
 <h2 style="text-align: center;">Lab Members</h2>
