@@ -89,7 +89,7 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
   <h3>📑 Citation</h3>
   <p>Ruth M Elgamal, Parul Kudtarkar, Rebecca L Melton, Hannah M Mummey, Paola Benaglio, Mei-Lin Okino, Kyle J Gaulton; An integrated map of cell type-specific gene expression in pancreatic islets. Diabetes 2023; db230130. https://doi.org/10.2337/db23-0130</p>
 </div>
-<h2>🧬 Islet HPAP  ChromatinAccessibility Map</h2>
+<h2>🧬 Islet HPAP  Chromatin Acessibility Map</h2>
 
 <div class="flex-container">
   <img src="https://github.com/Gaulton-Lab/gaultonlab-dev.github.io/blob/master/assets/images/islet_scatac.png?raw=true" width="300" alt="Single Cell ATAC-seq Data Visualization">

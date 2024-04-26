@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lab Fun"
+title: "Photos"
 excerpt: "Gaulton Lab Fun"
 header:
   image: /assets/images/Christmas_Party_2021.png
@@ -46,7 +46,6 @@ gallery3:
   </div>
 </div>
 <br>
-The Gaulton Lab fun culture is a lively mix of science and celebrations. We're convinced that throwing a party now and then, and chatting about science stuff in a laid-back way, really shakes up the daily routine 
 {% include gallery id="gallery1" class="full" %}
 {% include gallery id="gallery2" class="full" %}
 {% include gallery id="gallery3" class="full" %}

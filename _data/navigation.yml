@@ -2,13 +2,11 @@
 main:
   - title: "People"
     url: /people/
+  - title: "Resources"
+    url: /resources/
   - title: "Publications"
     url: /publications/
-  - title: "Lab Fun"
-    url: /fun/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Photos"
+    url: /photos/
+  - title: "Contact"
+    url: /contact/
