@@ -98,8 +98,16 @@ gallery1:
   <h3><i class="fas fa-toolbox"></i> Pipelines</h3>
   <ul>
     <li><a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq" class="link"><i class="fab fa-github"></i>GitHub</a></li>
-    <li><a href="" class="link"><i class="fab fa-docker">Docker</a></li>
+    <li><a href="" class="link"><i class="fab fa-docker"></i>Docker</a></li>
     <li><a href="" class="link"><i class="fas fa-cogs"></i>Nextflow</a></li>
   </ul>
+</div>
+<div class="section">
+  <h3><i class="fas fa-life-ring"></i> Help</h3>
+  <p>If you encounter a bug or have a feature request, please open an <a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq/issues" class="link">issue</a>.</p>
+</div>
+<div class="section">
+  <h3><i class="fas fa-file-alt"></i> Citation</h3>
+  <p></p>
 </div>
 </body>
