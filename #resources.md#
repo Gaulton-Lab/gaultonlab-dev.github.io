@@ -7,7 +7,6 @@ author_profile: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <meta charset="UTF-8">
-<title>Pancreatic Islet Gene Regulation Study</title>
 <style>
   h2, h3 { color: #333366; }
   p { margin-bottom: 1px; font-size: 12px; }
@@ -28,24 +27,24 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
 </head>
 <body>
  <div class="section">
-  <h2><i class="fas fa-chart-bar"></i> Portals</h2>
+  <h2>📊 Portals</h2>
   <ul>
-    <li><a href="https://cmdga.org"><i class="fas fa-dna"></i> Common Metabolic Disease Genome Atlas</a></li>
-    <li><a href="https://pankbase.org"><i class="fas fa-vial"></i> PanKbase</a></li>
+  <li><a href="https://cmdga.org">🔬 Common Metabolic Disease Genome Atlas</a></li>
+  <li><a href=""> 🧬  anKbase</a></li>
   </ul>
  </div>
  <div class="section">
-  <h2><i class="fas fa-toolbox"></i> Pipelines</h2>
+  <h2>🔧 Pipelines</h2>
   <ul>
-    <li><a href="https://github.com/Gaulton-Lab"><i class="fab fa-github"></i> GitHub</a></li>
-    <li><a href="https://hub.docker.com"><i class="fab fa-docker"></i> Docker</a></li>
-    <li><a href="https://www.nextflow.io"><i class="fas fa-cogs"></i> Nextflow</a></li>
+  <li><a href="https://github.com/Gaulton-Lab"><i class="fab fa-github"></i> GitHub</a></li>
+  <li><a href=""><i class="fab fa-docker"></i> Docker</a></li>
+  <li><a href=""><i class="fas fa-cogs"></i> Nextflow</a></li>
   </ul>
  </div>
  <div class="section">
-  <h2><i class="fas fa-link"></i> Resources</h2>
+  <h2>🔗 Resources</h2>
   <ul>
-    <li><a href="www.isletgenomics.org"><i class="fas fa-dna"></i> Islet Genomics</a></li>
+  <li><a href="www.isletgenomics.org">🧬< slet Genomics </a></li>
   </ul>
  </div>
 </body>
