@@ -5,6 +5,7 @@ author_profile: false
 <h2 style="text-align: center;">Resources</h2>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <meta charset="UTF-8">
 <title>Pancreatic Islet Gene Regulation Study</title>
 <style>
@@ -27,16 +28,16 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
 </head>
 <body>
  <div class="section">
-  <h2><i class="fab fa-laptop"></i>Portals</h2>
+  <h2>📊 Portals</h2>
   <ul>
-  <li><a href="https://cmdga.org><i class="fab fa-dna"></i>Common Metabolic Disease Genome Atlas</a></li>
+  <li><a href="https://cmdga.org">🔬Common Metabolic Disease Genome Atlas</a></li>
   <li><a href=""><i class="fab fa-procedures"></i>PanKbase</a></li>
   </ul>
  </div>
  <div class="section">
   <h2>🔧 Pipelines</h2>
   <ul>
-  <li><a href="https://github.com/Gaulton-Lab><i class="fab fa-github"></i> GitHub</a></li>
+  <li><a href="https://github.com/Gaulton-Lab"><i class="fab fa-github"></i> GitHub</a></li>
   <li><a href=""><i class="fab fa-docker"></i> Docker</a></li>
   <li><a href=""><i class="fas fa-cogs"></i> Nextflow</a></li>
   </ul>
@@ -44,7 +45,7 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
  <div class="section">
   <h2>🔗 Resources</h2>
   <ul>
-  <li><a href="www.isletgenomics.org">🧬< Islet Genomics</a></li>
+  <li><a href="www.isletgenomics.org">🧬<Islet Genomics</a></li>
   </ul>
  </div>
 </body>
