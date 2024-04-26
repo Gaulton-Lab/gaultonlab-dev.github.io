@@ -30,7 +30,7 @@ gallery1:
   .flex-container { display: flex; align-items: flex-start; }
   .flex-item { margin-right: 2px; }
   .clear { clear: both; }
-table { width: 100%; border-collapse: collapse; }
+table { width: 100%; border-collapse: collapse; margin-right: 8px;}
   td { padding: 5px; vertical-align: top; border: 0; } /* Invisible borders */
 </style>
 </head>
@@ -55,25 +55,25 @@ table { width: 100%; border-collapse: collapse; }
 <table>
   <tr>
     <td>
-      <h3>📁 Files</h3>
+      <h1>📁 Files</h1>
       <ul>
         <li><a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" class="button">R object</a></li>
       </ul>
     </td>
     <td>
-      <h3>📊 Annotations</h3>
+      <h1>📊 Annotations</h1>
       <ul>
         <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="button">Dropbox</a></li>
       </ul>
     </td>
     <td>
-      <h3>🔧 Pipelines</h3>
+      <h1>🔧 Pipelines</h1>
       <ul>
         <li><a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq" class="button">GitHub</a></li>
       </ul>
     </td>
     <td>
-      <h3>🔬 CMDGA</h3>
+      <h1>🔬 CMDGA</h1>
       <ul>
         <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="button">Data</a></li>
       </ul>
