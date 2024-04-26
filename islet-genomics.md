@@ -97,9 +97,9 @@ gallery1:
 <div class="section">
   <h3><i class="fas fa-toolbox"></i> Pipelines</h3>
   <ul>
-    <li><a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq" class="link">GitHub</a></li>
-    <li><a href="" class="link">Docker</a></li>
-    <li><a href="" class="link">Nextflow</a></li>
+    <li><a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq" class="link"><i class="fab fa-github"></i>GitHub</a></li>
+    <li><a href="" class="link"><i class="fab fa-docker">Docker</a></li>
+    <li><a href="" class="link"><i class="fas fa-cogs"></i>Nextflow</a></li>
   </ul>
 </div>
 </body>
