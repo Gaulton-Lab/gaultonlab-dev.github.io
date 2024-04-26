@@ -13,14 +13,15 @@ gallery1:
 ---
 <h2 style="text-align: center;">Islet Genomics</h2>
 <head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <meta charset="UTF-8">
 <title>Pancreatic Islet Gene Regulation Study</title>
 <style>
-  body { font-family: Arial, sans-serif; margin: 2px; font-size: 14px; }
+  body { font-family: Arial, sans-serif; margin: 5px; font-size: 14px; }
   h2, h3 { color: #333366; }
   p { margin-bottom: 1px; font-size: 12px; }
   ul { list-style-type: none; padding: 0; }
-  li { margin-bottom: 1px; }
+  li { margin-bottom: 4px; }
   .button { color: #fff; background-color: #007BFF; padding: 5px 10px; text-decoration: none; border-radius: 5px; font-size: 12px; }
   .button:hover { background-color: #0056b3; }
   .link { color: #1a0dab; text-decoration: none; }
@@ -87,5 +88,60 @@ table { width: 100%; border-collapse: collapse; margin-right: 8px;}
 <div class="section">
   <h3>📑 Citation</h3>
   <p>Ruth M Elgamal, Parul Kudtarkar, Rebecca L Melton, Hannah M Mummey, Paola Benaglio, Mei-Lin Okino, Kyle J Gaulton; An integrated map of cell type-specific gene expression in pancreatic islets. Diabetes 2023; db230130. https://doi.org/10.2337/db23-0130</p>
+</div>
+<h2>🧬 Islet HPAP GChromatin Accessibility Map</h2>
+
+<div class="flex-container">
+  <img src="https://github.com/Gaulton-Lab/gaultonlab-dev.github.io/blob/master/assets/images/islet_scatac.png?raw=true" width="300" alt="Single Cell ATAC-seq Data Visualization">
+  <div class="flex-item">
+    <h3>🔗 Applications</h3>
+    <ul>
+      <li><a href="http://tools.cmdga.org:5005/view/atac_hpap_diet.h5ad" class="button">Cellxgene</a></li>
+      <li><a href="http://tools.cmdga.org:3838/islet-scatac-hpap-browser" class="button">Shinycell</a></li>
+      <li><a href="http://tools.cmdga.org:3838/HPAP-motifs/" class="button">Motif Browser</a></li>
+      <li><a href="" class="button">WashU Epigenome Browser</a></li>
+      <li><a href="" class="button">Differential Peaks Browser</a></li>
+    </ul>
+  </div>
+</div>
+<div class="section">
+  <h3>🔧 Pipelines</h3>
+<!-- Invisible Table Layout -->
+<table>
+  <tr>
+    <td>
+    <h1><i class="fab fa-github"></i> GitHub</h1>
+      <ul>
+        <li><a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq" class="button">GitHub</a></li>
+      </ul>
+    </td>
+    <td>
+      <h1><i class="fab fa-docker"></i> Docker</h1>
+      <ul>
+        <li><a href="" class="button">Container</a></li>
+      </ul>
+    </td>
+    <td>
+      <h1><i class="fas fa-cogs"></i> Nextflow</h1>
+      <ul>
+        <li><a href="" class="button">Workflow System</a></li>
+      </ul>
+    </td>
+    <td>
+      <h1>🔬 CMDGA</h1>
+      <ul>
+        <li><a href="" class="button">Data</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+<div class="section">
+  <h3>🆘 Help</h3>
+  <p>If you encounter a bug or have a feature request, please open an <a href="https://github.com/Gaulton-Lab/HPAP-scATAC-seq/issues" class="link">issue</a>.</p>
+</div>
+<div class="section">
+  <h3>📑 Citation</h3>
+  <p></p>
 </div>
 </body>
