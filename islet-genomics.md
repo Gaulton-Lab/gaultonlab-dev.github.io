@@ -17,7 +17,6 @@ gallery1:
 <meta charset="UTF-8">
 <title>Pancreatic Islet Gene Regulation Study</title>
 <style>
-  body { font-family: Arial, sans-serif; margin: 5px; font-size: 14px; }
   h2, h3 { color: #333366; }
   p { margin-bottom: 1px; font-size: 12px; }
   ul { list-style-type: none; padding: 0; }
