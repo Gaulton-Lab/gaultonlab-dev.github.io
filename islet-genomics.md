@@ -16,15 +16,15 @@ gallery1:
 <meta charset="UTF-8">
 <title>Pancreatic Islet Gene Regulation Study</title>
 <style>
-  body { font-family: Arial, sans-serif; margin: 10px; }
+  body { font-family: Arial, sans-serif; margin: 1px; }
   h2, h3 { color: #333366; }
-  p { margin-bottom: 10px; }
+  p { margin-bottom: 2px; }
   ul { list-style-type: none; padding: 0; }
-  li { margin-bottom: 5px; }
+  li { margin-bottom: 2px; }
   a { color: #1a0dab; text-decoration: none; }
   a:hover { text-decoration: underline; }
-  img { margin-bottom: 10px; }
-  .section { margin-top: 10px; }
+  img { margin-bottom: 5px; }
+  .section { margin-top: 5px; }
   .icon { margin-right: 5px; }
 </style>
 </head>
@@ -35,7 +35,7 @@ gallery1:
 <hr>
 
 <p><strong>Single cell RNA-seq data in purified islets from 65 donors in HPAP</strong></p>
-<img src="/assets/images/islet_scrna.png" width="350" alt="Single Cell RNA-seq Data Visualization" style="float: left; margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/Gaulton-Lab/gaultonlab-dev.github.io/master/assets/images/islet_scrna.png" width="350" alt="Single Cell RNA-seq Data Visualization" style="float: left; margin-right: 20px;">
 
 <div class="section">
   <h3>🔗 Applications</h3>
