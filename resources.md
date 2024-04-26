@@ -30,8 +30,8 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
  <div class="section">
   <h2>📊 Portals</h2>
   <ul>
-  <li><a href="https://cmdga.org">🔬Common Metabolic Disease Genome Atlas</a></li>
-  <li><a href=""><i class="fab fa-procedures"></i>PanKbase</a></li>
+  <li><a href="https://cmdga.org">🔬 Common Metabolic Disease Genome Atlas</a></li>
+  <li><a href=""> 🧬  PPanKbase</a></li>
   </ul>
  </div>
  <div class="section">
@@ -45,7 +45,7 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
  <div class="section">
   <h2>🔗 Resources</h2>
   <ul>
-  <li><a href="www.isletgenomics.org">🧬<Islet Genomics</a></li>
+  <li><a href="www.isletgenomics.org">🧬<Islet Genomics </a></li>
   </ul>
  </div>
 </body>
