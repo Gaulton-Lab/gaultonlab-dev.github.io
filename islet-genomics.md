@@ -47,40 +47,30 @@ gallery1:
       <li><a href="http://tools.cmdga.org:3838/isletHPAP-expression/" class="button">Expression</a></li>
       <li><a href="http://tools.cmdga.org:3838/isletHPAP-deseq/" class="button">Differential Expression</a></li>
     </ul>
+    <h3>📁 Files</h3>
+    <ul>
+      <li><a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" class="button">R object</a></li>
+    </ul>
+    <h3>📊 Annotations</h3>
+    <ul>
+      <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="button">Dropbox</a></li>
+    </ul>
+    <h3>🔧 Pipelines</h3>
+    <ul>
+      <li><a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq" class="button">GitHub</a></li>
+    </ul>
+    <h3>🔬 CMDGA</h3>
+    <ul>
+      <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="button">Data</a></li>
+    </ul>
   </div>
-</div>
-<div class="clear"></div>
-<p><strong>Single cell RNA-seq data from 65 donors.</strong></p>
-<div class="section">
-  <h3>📁 Files</h3>
-  <ul>
-    <li><a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" class="button">R object</a></li>
-  </ul>
-</div>
-<div class="section">
-  <h3>📊 Annotations</h3>
-  <ul>
-    <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="button">Dropbox</a></li>
-  </ul>
-</div>
-<div class="section">
-  <h3>🔧 Pipelines</h3>
-  <ul>
-    <li><a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq" class="link">GitHub</a></li>
-  </ul>
-</div>
-<div class="section">
-  <h3>🔬 CMDGA</h3>
-  <ul>
-    <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="button">Data</a></li>
-  </ul>
 </div>
 <div class="section">
   <h3>🆘 Help</h3>
-  <p>For issues, open an <a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq/issues" class="link">issue</a>.</p>
+  <p>If you encounter a bug or have a feature request, please open an <a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq/issues" class="link">issue</a>.</p>
 </div>
 <div class="section">
   <h3>📑 Citation</h3>
-  <p>Ruth M Elgamal et al. <a href="https://doi.org/10.2337/db23-0130" class="link">View Citation</a></p>
+  <p>Ruth M Elgamal, Parul Kudtarkar, Rebecca L Melton, Hannah M Mummey, Paola Benaglio, Mei-Lin Okino, Kyle J Gaulton; An integrated map of cell type-specific gene expression in pancreatic islets. Diabetes 2023; db230130. https://doi.org/10.2337/db23-0130</p>
 </div>
 </body>
