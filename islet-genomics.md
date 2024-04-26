@@ -21,7 +21,7 @@ gallery1:
   h2, h3 { color: #333366; }
   p { margin-bottom: 1px; font-size: 12px; }
   ul { list-style-type: none; padding: 0; }
-  li { margin-bottom: 4px; }
+  li { margin-bottom: 8px; }
   .button { color: #fff; background-color: #007BFF; padding: 5px 10px; text-decoration: none; border-radius: 5px; font-size: 12px; }
   .button:hover { background-color: #0056b3; }
   .link { color: #1a0dab; text-decoration: none; }
@@ -31,7 +31,7 @@ gallery1:
   .flex-container { display: flex; align-items: flex-start; }
   .flex-item { margin-right: 2px; }
   .clear { clear: both; }
-table { width: 100%; border-collapse: collapse; margin-right: 8px;}
+table { width: 100%; border-collapse: collapse; margin: 8px;}
   td { padding: 5px; vertical-align: top; border: 0; } /* Invisible borders */
 </style>
 </head>
