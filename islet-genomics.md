@@ -54,6 +54,7 @@ gallery1:
     <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="link">Annotation</a></li>
     <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="link">Data in CMDGA</a></li>
   </ul>
+</div>  
 <div class="section">
   <h3><i class="fas fa-toolbox"></i> Pipelines</h3>
   <ul>
