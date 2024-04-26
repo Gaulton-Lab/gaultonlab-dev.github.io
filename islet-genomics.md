@@ -48,27 +48,20 @@ gallery1:
   </div>
 </div>
 <div class="section">
-  <h3><i class="fas fa-folder"></i> Files</h3>
+  <h3><i class="fas fa-folder"></i> Files & Annotations</h3>
   <ul>
     <li><a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" class="link">R object</a></li>
   </ul>
-</div>
-<div class="section">
-  <h3><i class="fas fa-chart-bar"></i> Annotations</h3>
   <ul>
-    <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="link">Dropbox</a></li>
+    <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="link">Annotation</a></li>
   </ul>
-</div>
+  <ul>
+    <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="link">Data in CMDGA</a></li>
+  </ul>
 <div class="section">
   <h3><i class="fas fa-toolbox"></i> Pipelines</h3>
   <ul>
     <li><a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq" class="link">GitHub</a></li>
-  </ul>
-</div>
-<div class="section">
-  <h3><i class="fas fa-microscope"></i> CMDGA</h3>
-  <ul>
-    <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="link">Data</a></li>
   </ul>
 </div>
 <div class="section">
@@ -89,7 +82,7 @@ gallery1:
       <li><a href="http://tools.cmdga.org:5005/view/atac_hpap_diet.h5ad" class="link">Cellxgene</a></li>
       <li><a href="http://tools.cmdga.org:3838/islet-scatac-hpap-browser" class="link">Shinycell</a></li>
       <li><a href="http://tools.cmdga.org:3838/HPAP-motifs/" class="link">Motif Browser</a></li>
-      <li><a href="" class="link">WashU Epigenome Browser</a></li>
+      <li><a href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr7%3A142748947%2D142750133&hgsid=2172116518_N6ZDwaUuPj3vkxmoU1Aqm9IzmAId" class="link">UCSC Browser for cell type specific peaks</a></li>
       <li><a href="" class="link">Differential Peaks Browser</a></li>
     </ul>
   </div>
