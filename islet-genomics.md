@@ -51,11 +51,7 @@ gallery1:
   <h3><i class="fas fa-folder"></i> Files & Annotations</h3>
   <ul>
     <li><a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" class="link">R object</a></li>
-  </ul>
-  <ul>
     <li><a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" class="link">Annotation</a></li>
-  </ul>
-  <ul>
     <li><a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" class="link">Data in CMDGA</a></li>
   </ul>
 <div class="section">
