@@ -18,8 +18,8 @@ gallery2:
   - url: /assets/images/Christmas_Party_2022.jpg
     image_path: assets/images/Christmas_Party_2022.jpg
     alt: "Swiss_Riveria"
-  - url: /assets/images/Riggs_Symposium_2022.jpg
-    image_path: assets/images/Riggs_Symposium_2022.jpg
+  - url: /assets/images/Sierra_Bday_2023.jpg
+    image_path: assets/images/Sierra_Bday_2023.jpg
     alt: "Lavande_en_ Provence"
   - url: /assets/images/CPK_Lunch_2022.jpg
     image_path: assets/images/CPK_Lunch_2022.jpg
@@ -28,8 +28,8 @@ gallery3:
   - url: /assets/images/JDRF_walk_2022.jpg
     image_path: assets/images/JDRF_walk_2022.jpg
     alt: "Swiss_Riveria"
-  - url: /assets/images/Sierra_Bday_2023.jpg
-    image_path: assets/images/Sierra_Bday_2023.jpg
+  - url: /assets/images/Riggs_Symposium_2022.jpg
+    image_path: assets/images/Riggs_Symposium_2022.jpg
     alt: "Lavande_en_ Provence"
   - url: /assets/images/IMG_6623.jpg
     image_path: assets/images/IMG_6623.jpg
