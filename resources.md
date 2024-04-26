@@ -43,7 +43,7 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
   </ul>
  </div>
  <div class="section">
-  <h2><i class="fas fa-link"></i> Resources</h2>
+  <h2><i class="fas fa-link"></i>Other Resources</h2>
   <ul>
     <li><a href="www.isletgenomics.org"><i class="fas fa-dna"></i> Islet Genomics</a></li>
   </ul>
