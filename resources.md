@@ -7,7 +7,6 @@ author_profile: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <meta charset="UTF-8">
-<title>Pancreatic Islet Gene Regulation Study</title>
 <style>
   h2, h3 { color: #333366; }
   p { margin-bottom: 1px; font-size: 12px; }
@@ -30,7 +29,6 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
 <div class="section">
   <h2><i class="fas fa-chart-bar"></i> Portals</h2>
   <div class="section">
-    <h3>Collaborative Efforts and Resources</h3>
     <p>Our lab actively collaborates with the Broad Institute and other partners to enhance access to scientific data and analytical pipelines. We focus on maintaining key resources such as PanKBase, the Common Metabolic Diseases Genome Atlas (CMDGA), and the Knowledge Portal. Additionally, we develop tools to help the community engage with our primary data.</p>
     <h4><a href="https://cmdga.org">Common Metabolic Diseases Genome Atlas (CMDGA)</a></h4>
     <p>The CMDGA provides comprehensive epigenomic and functional genomic data to aid in understanding the genetic foundations of common metabolic diseases. Developed at the University of California San Diego as part of the AMP®-CMD consortium, it includes contributions from academic, industry, and non-profit institutions globally.</p>
@@ -49,11 +47,13 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
     <li><a href="https://hub.docker.com/repositories/kgaultonlab"><i class="fab fa-docker"></i> Docker</a></li>
     <li><a href="https://www.nextflow.io"><i class="fas fa-cogs"></i> Nextflow</a></li>
   </ul>
+  <p>All our pipelines are made publicly available on platforms like GitHub, Docker, and Nextflow (currently in progress). This allows the broader scientific community to access, use, and contribute to our computational tools, promoting transparency and collaboration in our research efforts.</p>  
 </div>
 <div class="section">
   <h2><i class="fas fa-link"></i> Other Resources</h2>
   <ul>
-    <li><a href="islet-genomics.md"><i class="fas fa-dna"></i> Islet Genomics</a></li>  
+    <li><a href="{{ site.baseurl }}/islet-genomics"><i class="fas fa-dna"></i> Islet Genomics</a></li>  
   </ul>
+    <p>Our lab provides access to various other resources that support our research on pancreatic islet gene regulation. These resources include datasets, tools, and information that are crucial for advancing our understanding and development in this field. The Islet Genomics page offers interactive tools and data relevant to our studies.</p>
 </div>
 </body>
