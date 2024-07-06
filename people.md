@@ -56,7 +56,7 @@ feature_row0-7:
 <h2 style="text-align: center;">Lab Members</h2>
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/images/Kyle.png" alt="Kyle Jeffrie Gaulton">
+    <img src="{{ site.baseurl }}/assets/images/Kyle.png" alt="Kyle Jeffrie Gaulton">
     <div style="text-align: center; font-size: 1.3em;">Kyle Jeffrie Gaulton</div>
     <div style="text-align: center; font-size: 1.3em;">Associate Professor</div>
     <div style="text-align: center; font-size: 1.3em;">UPenn, BAS Computer Science; UNC Chapel Hill, PhD Genetics and Molecular Biology</div>
