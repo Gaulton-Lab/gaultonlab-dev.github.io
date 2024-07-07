@@ -23,7 +23,7 @@ feature_row0-3:
   - image_path: assets/images/Emily.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Emily Griffin</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>USC, BS Neuroscience; UCSD, PhD Biomedical Sciences</div>"
   - image_path: assets/images/Mei.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Mei-Lin Okino</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Bioinformatics</div>"
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Mei-Lin Okino</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Bioinformatics</div>"
 
 feature_row0-4:
   - image_path: assets/images/Carolyn.png
@@ -37,9 +37,9 @@ feature_row0-5:
   - image_path: assets/images/Ruth.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Ruth Elgamal</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Western University, BMSc. Physiology & Medical Sciences; Western University, MSc., Physiology & Pharmacology</div>"
   - image_path: assets/images/Hannah.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Hannah Mummey</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>Wellesley College, BA Biochemistry</div>"
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Hannah Mummey</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>Wellesley College, BA Biochemistry</div>"
   - image_path: assets/images/Weston.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Weston Elison</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Brigham Young University, BS Physiology and Developmental Biology</div>"
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Weston Elison</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Brigham Young University, BS Physiology and Developmental Biology</div>"
 
 feature_row0-6:
   - image_path: assets/images/Harnidh.png
