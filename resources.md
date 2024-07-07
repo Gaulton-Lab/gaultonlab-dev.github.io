@@ -29,16 +29,16 @@ table { width: 100%; border-collapse: collapse; margin: 8px;}
 <div class="section">
   <h2><i class="fas fa-chart-bar"></i> Portals</h2>
   <div class="section">
-    <p>Our lab actively collaborates with the Broad Institute and other partners to enhance access to scientific data and analytical pipelines. We focus on maintaining key resources such as PanKBase, the Common Metabolic Diseases Genome Atlas (CMDGA), and the Knowledge Portal. Additionally, we develop tools to help the community engage with our primary data.</p>
+  <ul>
+    <li><a href="https://cmdga.org"><i class="fas fa-dna"></i> Common Metabolic Disease Genome Atlas</a></li>
+    <li><a href="http://wiki.pankbase.org"><i class="fas fa-vial"></i> PanKbase</a></li>
+  </ul>
+    <p>Our lab maintains key resources such as PanKBase, the Common Metabolic Diseases Genome Atlas (CMDGA), and the Knowledge Portal. Additionally, we develop tools to help the community engage with our primary data.</p>
     <h4><a href="https://cmdga.org">Common Metabolic Diseases Genome Atlas (CMDGA)</a></h4>
     <p>The CMDGA provides comprehensive epigenomic and functional genomic data to aid in understanding the genetic foundations of common metabolic diseases. Developed at the University of California San Diego as part of the <a href="https://fnih.org/our-programs/accelerating-medicines-partnership-amp/amp-common-metabolic-disorders/">AMP®-CMD consortium</a>, it includes contributions from academic, industry, and non-profit institutions globally.</p>
     <h4><a href="http://wiki.pankbase.org">PanKBase</a></h4>
     <p>As a critical component of the <a href="https://hirnetwork.org/">Human Islet Research Network (HIRN)</a>, PanKBase complements the <a href="https://hirnetwork.org/coordinating_group/hirec">Human Islet Research Enhancement Center (HIREC)</a> and the <a href="https://hpap.pmacs.upenn.edu/">Human Pancreas Analysis Program (HPAP)</a>. It aims to share knowledge based on FAIR principles, improving access to integrated datasets. This will advance the understanding of T1D etiology and pathophysiology, and foster the development of diagnostic tools and transformative changes in diabetes care. PanKBase leverages the Pancreatlas and GenomicKB platforms to connect and integrate global pancreas and islet datasets.</p>
   </div>
-  <ul>
-    <li><a href="https://cmdga.org"><i class="fas fa-dna"></i> Common Metabolic Disease Genome Atlas</a></li>
-    <li><a href="http://wiki.pankbase.org"><i class="fas fa-vial"></i> PanKbase</a></li>
-  </ul>
 </div>
 <div class="section">
   <h2><i class="fas fa-toolbox"></i> Pipelines</h2>
