@@ -21,10 +21,10 @@ feature_row0-1:
 title: "Pipelines"
 feature_row0-2:
   - title: "GitHub"
-<div><a href='https://github.com/Gaulton-Lab' class='button'>Visit GitHub</a></div>"
+    excerpt: "<div><a href='https://github.com/Gaulton-Lab' class='button'>Visit GitHub</a></div>"
 
   - title: "Docker"
-<div><a href='https://hub.docker.com/repositories/kgaultonlab' class='button'>Visit Docker</a></div>"
+    excerpt: "<div><a href='https://hub.docker.com/repositories/kgaultonlab' class='button'>Visit Docker</a></div>"
 ---
 
 <h2 style="text-align: center; font-size: 2em; font-weight: bold;">Resources</h2>
