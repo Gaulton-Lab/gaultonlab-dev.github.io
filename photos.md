@@ -55,8 +55,8 @@ gallery5:
     image_path: assets/images/Ruth_Defense_2024.jpg
     alt: "Lavande_en_ Provence"
 gallery6:    
-  - url: /assets/images/Christmas_Party_2020.png
-    image_path: assets/images/Christmas_Party_2020.png
+  - url: /assets/images/Lab_Picture_2018.jpg
+    image_path: assets/images/Lab_Picture_2018.jpg
     alt: "Swiss_Riveria"
   - url: /assets/images/JDRF_Walk_2023.jpg
     image_path: assets/images/JDRF_Walk_2023.jpg
