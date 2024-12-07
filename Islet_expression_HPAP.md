@@ -36,14 +36,14 @@ This site hosts data and resources from studies describing gene regulation in hu
 
 #### Shinycell
 <iframe 
-    src="http://tools.cmdga.org:3838/islet-rna-hpap-browser/" 
+    src="http://tools.cmdga.org/islet-rna-hpap-browser/" 
     width="100%" 
     height="600" 
     style="border: 1px solid #ddd;">
 </iframe>
 
 
-<p><a href="http://tools.cmdga.org:3838/islet-rna-hpap-browser/" target="_blank">Open Shinycell in a new tab</a></p>
+<p><a href="http://tools.cmdga.org/islet-rna-hpap-browser/" target="_blank">Open Shinycell in a new tab</a></p>
 
 
 #### Azimuth
@@ -63,23 +63,23 @@ This site hosts data and resources from studies describing gene regulation in hu
 
 
 <iframe 
-    src="http://tools.cmdga.org:3838/isletHPAP-expression/" 
+    src="http://tools.cmdga.org/isletHPAP-expression/" 
     width="100%" 
     height="600" 
     style="border: 1px solid #ddd;">
 </iframe>
 
 
-<p><a href="http://tools.cmdga.org:3838/isletHPAP-expression/" target="_blank">Open Expression Browser in a new tab</a></p>
+<p><a href="http://tools.cmdga.org/isletHPAP-expression/" target="_blank">Open Expression Browser in a new tab</a></p>
 
 
 #### Differential Expression Browser
 
 
 <iframe 
-    src="http://tools.cmdga.org:3838/isletHPAP-deseq/" 
+    src="http://tools.cmdga.org/isletHPAP-deseq/" 
     width="100%" 
     height="600" 
     style="border: 1px solid #ddd;">
 </iframe>
-<p><a href="http://tools.cmdga.org:3838/isletHPAP-deseq/" target="_blank">Open Differential Expression Browser in a new tab</a></p>
+<p><a href="http://tools.cmdga.org/isletHPAP-deseq/" target="_blank">Open Differential Expression Browser in a new tab</a></p>
