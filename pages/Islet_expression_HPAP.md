@@ -1,11 +1,6 @@
 ---
 layout: single
 author_profile: false
-gallery1:
-  - url: /assets/images/215863832-3fd876fb-a828-4ca5-a058-3417d7386b23.png
-    image_path: assets/images/215863832-3fd876fb-a828-4ca5-a058-3417d7386b23.png
-    alt: "talk"
-    image_style: "width: 150%;"
 ---
 <!-- Include Font Awesome for icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
@@ -72,6 +67,7 @@ gallery1:
 </style>
 <div class="hero-banner">
   <h3>Single cell RNA-seq data in purified islets from 65 donors in HPAP</h3>
+  <img src="/assets/images/215863832-3fd876fb-a828-4ca5-a058-3417d7386b23.png" alt="Islet Genomics">
   <p>Discover data and tools to explore islet cell function and disease.</p>
 </div>
 

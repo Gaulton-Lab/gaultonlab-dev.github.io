@@ -95,7 +95,7 @@ author_profile: false
   <!-- User Manual -->
   <div class="card">
     <i class="fas fa-book"></i>
-    <a href="https://www.gaultonlab.org/pages/tools-guide.html" target="_blank">User Manual</a>
+    <a href="https://www.gaultonlab.org/pages/tools-guide" target="_blank">User Manual</a>
   </div>
 
   <!-- Links Browser -->
