@@ -25,7 +25,6 @@ author_profile: false
   }
   .hero-banner {
     background-color: #f8f9fa;
-    padding: 40px;
     text-align: center;
     margin-bottom: 30px;
   }
@@ -36,6 +35,13 @@ author_profile: false
   .hero-banner p {
     font-size: 1.2em;
   }
+  .hero-banner img {
+    width: 50%;
+    margin: 10px auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }  
   .card-container {
     display: flex;
     flex-wrap: wrap;
