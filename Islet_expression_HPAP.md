@@ -7,7 +7,8 @@ gallery1:
     alt: "talk"
     image_style: "width: 150%;"
 ---
-{% include gallery id="gallery1" class="half" caption="" %}
+<!-- Include Font Awesome for icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <style>
   body {
@@ -25,20 +26,6 @@ gallery1:
   }
   a:hover {
     color: #0056b3;
-    text-decoration: underline;
-  }
-  nav {
-    background-color: #007BFF;
-    padding: 10px;
-    text-align: center;
-  }
-  nav a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-    font-size: 1.1em;
-  }
-  nav a:hover {
     text-decoration: underline;
   }
   .hero-banner {
@@ -62,96 +49,97 @@ gallery1:
   }
   .card {
     border: 1px solid #ddd;
-    padding: 20px;
+    padding: 15px;
     border-radius: 8px;
-    width: 100%;
-    max-width: 300px;
+    width: 30%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
+    background-color: #fff;
   }
   .card h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  .card i {
+    font-size: 2em;
     margin-bottom: 10px;
+    color: #007BFF;
   }
   .card a {
     display: block;
     margin-top: 10px;
   }
 </style>
-
-<nav>
-  <a href="#applications">Applications</a>
-  <a href="#resources">Resources</a>
-  <a href="#help">Help</a>
-  <a href="#citation">Citation</a>
-</nav>
-
+{% include gallery id="gallery1" class="half" caption="Human Pancreatic Islet Gene Regulation Resource" %}
 <div class="hero-banner">
-  <h1>Human Pancreatic Islet Gene Regulation Resource</h1>
+  <p>Discover data and tools to explore islet cell function and disease.</p>
 </div>
-
-# **Human Pancreatic Islet Gene Regulation Resource**
-
-This site hosts data and resources from studies describing gene regulation in human pancreatic islet cell types to understand islet cell type function and changes in disease.
-
----
-
-## **Islet HPAP Single-Cell Gene Expression Map**
-
-### *Single-cell RNA-seq data in purified islets from 65 donors in HPAP*
-
----
-
-## **Applications** {#applications}
 
 <div class="card-container">
+  <!-- Cellxgene -->
   <div class="card">
-    <h3>Cellxgene</h3>
-    <a href="http://tools.cmdga.org/view/hpap_rna_cellxgene.h5ad" target="_blank">Launch Cellxgene</a>
+    <i class="fas fa-dna"></i>
+    <a href="http://tools.cmdga.org/view/hpap_rna_cellxgene.h5ad" target="_blank">Cellxgene</a>
   </div>
+
+  <!-- Shinycell -->
   <div class="card">
-    <h3>Shinycell</h3>
-    <a href="http://tools.cmdga.org/islet-rna-hpap-browser/" target="_blank">Open Shinycell</a>
+    <i class="fas fa-chart-bar"></i>
+    <a href="http://tools.cmdga.org/islet-rna-hpap-browser/" target="_blank">Shinycell</a>
   </div>
+
+  <!-- Azimuth -->
   <div class="card">
-    <h3>Azimuth</h3>
-    <a href="http://tools.cmdga.org:6388/" target="_blank">Access Azimuth</a>
+    <i class="fas fa-map-marked-alt"></i>
+    <a href="http://tools.cmdga.org" target="_blank">Azimuth</a>
   </div>
+
+  <!-- Expression Browser -->
   <div class="card">
-    <h3>Expression Browser</h3>
-    <a href="http://tools.cmdga.org/isletHPAP-expression/" target="_blank">Visit Expression Browser</a>
+    <i class="fas fa-search"></i>
+    <a href="http://tools.cmdga.org/isletHPAP-expression/" target="_blank">Expression Browser</a>
   </div>
+
+  <!-- Differential Expression Browser -->
   <div class="card">
-    <h3>Differential Expression Browser</h3>
-    <a href="http://tools.cmdga.org/isletHPAP-deseq/" target="_blank">Explore Differential Expression</a>
+    <i class="fas fa-exchange-alt"></i>
+    <a href="http://tools.cmdga.org/isletHPAP-deseq/" target="_blank">Differential Expression</a>
+  </div>
+
+  <!-- Processed Files -->
+  <div class="card">
+    <i class="fas fa-file-alt"></i>
+    <a href="https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds" target="_blank">Download R Object</a>
+  </div>
+
+  <!-- Cell Type Annotations -->
+  <div class="card">
+    <i class="fas fa-table"></i>
+    <a href="https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0" target="_blank">Access annotations via Dropbox.</a>
+  </div>
+
+  <!-- Analysis Pipelines -->
+  <div class="card">
+    <i class="fas fa-code"></i>
+    <a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq" target="_blank">Explore pipelines on GitHub.</a>
+  </div>
+
+  <!-- CMDGA Data -->
+  <div class="card">
+    <i class="fas fa-database"></i>
+    <a href="https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/" target="_blank">View Datasets on CMDGA</a>
+  </div>
+
+  <!-- Getting Help -->
+  <div class="card">
+    <i class="fas fa-question-circle"></i>
+    <a href="https://github.com/Gaulton-Lab/HPAP-scRNA-seq/issues" target="_blank">Encounter a bug or have a feature request? Open an issue on GitHub</a>
   </div>
 </div>
 
 ---
 
-## **Additional Resources** {#resources}
-
-- **Processed files**:  
-  Download the processed R object: [**R object**](https://islet-hpap.s3.us-west-2.amazonaws.com/hpap_islet_scRNAseq.rds)
-
-- **Cell type annotations**:  
-  Access annotations via Dropbox: [**Dropbox**](https://www.dropbox.com/sh/k4uz72wxkxas1s9/AAA4tdLZXckXHh7b_LSnmLoGa?dl=0)
-
-- **Analysis pipelines**:  
-  Explore pipelines on GitHub: [**GitHub**](https://github.com/Gaulton-Lab/HPAP-scRNA-seq)
-
-- **CMDGA data**:  
-  View related CMDGA publications: [**Data on CMDGA**](https://cmdga.org/publications/22fa8a27-8272-40fe-9aed-26bf14c40038/)
-
----
-
-## **Getting Help** {#help}
-
-If you encounter a bug or have a feature request, please open an issue on GitHub:  
-[**Open an Issue**](https://github.com/Gaulton-Lab/HPAP-scRNA-seq/issues)
-
----
-
-## **Citation** {#citation}
+## **Citation**
 
 Ruth M Elgamal, Parul Kudtarkar, Rebecca L Melton, Hannah M Mummey, Paola Benaglio, Mei-Lin Okino, Kyle J Gaulton;  
 An integrated map of cell type-specific gene expression in pancreatic islets. *Diabetes 2023*; db230130.  
