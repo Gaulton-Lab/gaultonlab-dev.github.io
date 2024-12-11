@@ -7,6 +7,7 @@ gallery1:
     alt: "talk"
     image_style: "width: 150%;"
 ---
+{% include gallery id="gallery1" class="half" caption="" %}
 
 <style>
   body {
