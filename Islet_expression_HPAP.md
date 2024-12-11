@@ -70,8 +70,8 @@ gallery1:
     margin-top: 10px;
   }
 </style>
-{% include gallery id="gallery1" class="half" caption="Human Pancreatic Islet Gene Regulation Resource" %}
 <div class="hero-banner">
+  <h3>Single cell RNA-seq data in purified islets from 65 donors in HPAP</h3>
   <p>Discover data and tools to explore islet cell function and disease.</p>
 </div>
 
@@ -79,31 +79,31 @@ gallery1:
   <!-- Cellxgene -->
   <div class="card">
     <i class="fas fa-dna"></i>
-    <a href="http://tools.cmdga.org/view/hpap_rna_cellxgene.h5ad" target="_blank">Cellxgene</a>
+    <a href="http://tools.cmdga.org:5005/view/hpap_rna_cellxgene.h5ad" target="_blank">Cellxgene</a>
   </div>
 
   <!-- Shinycell -->
   <div class="card">
     <i class="fas fa-chart-bar"></i>
-    <a href="http://tools.cmdga.org/islet-rna-hpap-browser/" target="_blank">Shinycell</a>
+    <a href="http://tools.cmdga.org:3838/islet-rna-hpap-browser/" target="_blank">Shinycell</a>
   </div>
 
   <!-- Azimuth -->
   <div class="card">
     <i class="fas fa-map-marked-alt"></i>
-    <a href="http://tools.cmdga.org" target="_blank">Azimuth</a>
+    <a href="http://tools.cmdga.org:6388" target="_blank">Azimuth</a>
   </div>
 
   <!-- Expression Browser -->
   <div class="card">
     <i class="fas fa-search"></i>
-    <a href="http://tools.cmdga.org/isletHPAP-expression/" target="_blank">Expression Browser</a>
+    <a href="http://tools.cmdga.org:3838/isletHPAP-expression/" target="_blank">Expression Browser</a>
   </div>
 
   <!-- Differential Expression Browser -->
   <div class="card">
     <i class="fas fa-exchange-alt"></i>
-    <a href="http://tools.cmdga.org/isletHPAP-deseq/" target="_blank">Differential Expression</a>
+    <a href="http://tools.cmdga.org:3838/isletHPAP-deseq/" target="_blank">Differential Expression</a>
   </div>
 
   <!-- Processed Files -->
