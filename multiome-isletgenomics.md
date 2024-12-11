@@ -63,7 +63,8 @@ author_profile: false
 </style>
 
 <div class="hero-image">
-  <img src="assets/images/multiome.png" alt="Multiome Islet Genomics">
+  <h3>Single cell multiome profiling of pancreatic islets</h3>
+  <img src="/assets/images/multiome.png" alt="Multiome Islet Genomics">
 </div>
 
 <div class="card-container">
