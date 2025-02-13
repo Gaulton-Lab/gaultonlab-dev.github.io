@@ -76,13 +76,13 @@ author_profile: false
   <!-- Differential Expression Browser -->
   <div class="card">
     <i class="fas fa-chart-line"></i>
-    <a href="http://tools.cmdga.org:3838/t1d-pancreas-expression-browser" target="_blank">Differential Expression Browser</a>
+    <a href="https://tools.cmdga.org/t1d-pancreas-expression-browser" target="_blank">Differential Expression Browser</a>
   </div>
 
   <!-- Differential Accessible cRE Browser -->
   <div class="card">
     <i class="fas fa-map"></i>
-    <a href="http://tools.cmdga.org/t1d-pancreas-cRE" target="_blank">Differential Accessible cRE Browser</a>
+    <a href="https://tools.cmdga.org/t1d-pancreas-cRE" target="_blank">Differential Accessible cRE Browser</a>
   </div>
 
   <!-- User Manual -->
