@@ -79,12 +79,6 @@ author_profile: false
     <a href="https://tools.cmdga.org/t1d-pancreas-expression-browser" target="_blank">Differential Expression Browser</a>
   </div>
 
-  <!-- Differential Accessible cRE Browser -->
-  <div class="card">
-    <i class="fas fa-map"></i>
-    <a href="https://tools.cmdga.org/t1d-pancreas-cRE" target="_blank">Differential Accessible cRE Browser</a>
-  </div>
-
   <!-- User Manual -->
   <div class="card">
     <i class="fas fa-book"></i>
