@@ -73,6 +73,13 @@ author_profile: false
     <a href="http://tools.cmdga.org/t1d-whole-pancreas" target="_blank">Single Cell Browser</a>
   </div>
 
+<div class="card-container">
+  <!-- Single Cell Spatial Browser -->
+  <div class="card">
+    <i class="fas fa-atom"></i>
+    <a href="http://tools.cmdga.org/npod_spatial" target="_blank">Single Cell Spatial Browser</a>
+  </div>
+
   <!-- Differential Expression Browser -->
   <div class="card">
     <i class="fas fa-chart-line"></i>
