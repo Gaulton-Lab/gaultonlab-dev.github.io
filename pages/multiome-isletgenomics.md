@@ -13,19 +13,23 @@ author_profile: false
   }
   h1, h2, h3 {
     font-family: 'Georgia', serif;
+    color: #683b8b; /* Purple from Gaulton Lab logo */
   }
   a {
-    color: #007BFF;
+    color: #683b8b; /* Purple from Gaulton Lab logo */
     text-decoration: none;
     font-weight: bold;
   }
   a:hover {
-    color: #0056b3;
+    color: #e79c9c; /* Salmon pink from Gaulton Lab logo */
     text-decoration: underline;
   }
   .hero-image {
     text-align: center;
     margin: 20px 0;
+  }
+  .hero-image h3 {
+    color: #683b8b; /* Purple from Gaulton Lab logo */
   }
   .hero-image img {
     width: 450px;
@@ -37,28 +41,69 @@ author_profile: false
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
+    margin-top: 30px;
   }
   .card {
     border: 1px solid #ddd;
-    padding: 15px;
+    padding: 20px;
     border-radius: 8px;
     width: 30%;
+    min-width: 200px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
     background-color: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
   }
   .card h3 {
     margin: 10px 0;
     font-size: 1.2em;
   }
   .card i {
-    font-size: 2em;
-    margin-bottom: 10px;
-    color: #007BFF;
+    font-size: 2.5em;
+    margin-bottom: 15px;
+    color: #e79c9c; /* Salmon pink from Gaulton Lab logo */
+    transition: color 0.3s ease;
+  }
+  .card:hover i {
+    color: #683b8b; /* Purple from Gaulton Lab logo on hover */
   }
   .card a {
     display: block;
-    margin-top: 10px;
+    margin-top: 15px;
+    padding: 8px 15px;
+    background-color: #e79c9c; /* Salmon pink from Gaulton Lab logo */
+    color: white;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  .card a:hover {
+    background-color: #d37f7f; /* Darker shade of salmon pink */
+    color: white;
+    text-decoration: none;
+  }
+  .citation {
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 2px solid #e9ecef;
+  }
+  .citation h2 {
+    color: #683b8b; /* Purple from Gaulton Lab logo */
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .card {
+      width: 45%;
+    }
+  }
+  @media (max-width: 576px) {
+    .card {
+      width: 100%;
+    }
   }
 </style>
 
@@ -107,7 +152,7 @@ author_profile: false
   <!-- Download Files -->
   <div class="card">
     <i class="fas fa-file-download"></i>
-    <a href="https://www.dropbox.com/scl/fo/9ncblst9u6ixjvi189jnw/AKsUBHKV3JbftILoDVtOJRY?rlkey=ig7goqbz9zc8f0bo9iy3179lt&st=mjzl9495&dl=0" target="_blank">Access ATAC and cell type link files.</a>
+    <a href="https://www.dropbox.com/scl/fo/9ncblst9u6ixjvi189jnw/AKsUBHKV3JbftILoDVtOJRY?rlkey=ig7goqbz9zc8f0bo9iy3179lt&st=mjzl9495&dl=0" target="_blank">Access ATAC and cell type link files</a>
   </div>
 
   <!-- Analysis Pipelines -->
@@ -125,14 +170,15 @@ author_profile: false
   <!-- Getting Help -->
   <div class="card">
     <i class="fas fa-question-circle"></i>
-    <a href="https://github.com/Gaulton-Lab/non-diabetic-islet-multiomics/issues" target="_blank">Encounter a bug or have a feature request? Open an issue on GitHub.</a>
+    <a href="https://github.com/Gaulton-Lab/non-diabetic-islet-multiomics/issues" target="_blank">Get Help on GitHub</a>
   </div>
 </div>
 
----
-
-## **Citation**
-
-Hannah M Mummey, Weston Elison, Katha Korgaonkar, Ruth M Elgamal, Parul Kudtarkar, Emily Griffin, Paola Benaglio, Michael Miller, Alokkumar Jha, Jocelyn Manning Fox, Mark I McCarthy, Sebastian Preissl, Anna L Gloyn, Patrick MacDonald, Kyle J Gaulton;  
-Single cell multiome profiling of pancreatic islets reveals physiological changes in cell type-specific regulation associated with diabetes risk. (2024)  
-[**bioRxiv**](https://www.biorxiv.org/content/10.1101/2024.08.03.606460v1.full)
+<div class="citation">
+  <h2>Citation</h2>
+  <p>
+    Hannah M Mummey, Weston Elison, Katha Korgaonkar, Ruth M Elgamal, Parul Kudtarkar, Emily Griffin, Paola Benaglio, Michael Miller, Alokkumar Jha, Jocelyn Manning Fox, Mark I McCarthy, Sebastian Preissl, Anna L Gloyn, Patrick MacDonald, Kyle J Gaulton;<br>  
+    Single cell multiome profiling of pancreatic islets reveals physiological changes in cell type-specific regulation associated with diabetes risk. (2024)<br>  
+    <a href="https://www.biorxiv.org/content/10.1101/2024.08.03.606460v1.full" target="_blank"><strong>bioRxiv</strong></a>
+  </p>
+</div>

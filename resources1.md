@@ -11,47 +11,35 @@ title: "Resources & Pipelines"
   <div class="resource-grid">
     <!-- CMDGA -->
     <div class="resource-card">
-      <div class="card-header">
-        <img src="/assets/images/cmdga-logo.png" alt="CMDGA Logo" class="resource-logo">
-        <h3>Common Metabolic Disease Genome Atlas</h3>
-      </div>
+      <h3>Common Metabolic Disease Genome Atlas</h3>
       <p>Comprehensive epigenomic and functional genomic data from the AMP®-CMD consortium at UCSD.</p>
       <a href="https://cmdga.org" class="resource-button">CMDGA</a>
     </div>
     
     <!-- PanKBase -->
     <div class="resource-card">
-      <div class="card-header">
-        <img src="/assets/images/pankbase-logo.png" alt="PanKBase Logo" class="resource-logo">
-        <h3>PanKBase</h3>
-      </div>
+      <h3>PanKBase</h3>
       <p>A critical component of the Human Islet Research Network (HIRN) sharing knowledge based on FAIR principles.</p>
       <a href="https://data.pankbase.org" class="resource-button">PanKBase</a>
     </div>
     
     <!-- Islet Genomics -->
     <div class="resource-card">
-      <div class="card-header">
-        <h3>Islet Genomics</h3>
-      </div>
+      <h3>Islet Genomics</h3>
       <p>Interactive tools and data relevant to our pancreatic islet studies.</p>
-      <a href="https://www.gaultonlab.org/pages/Islet_expression_HPAP" class="resource-button">Islet Genomics</a>
+      <a href="https://www.isletgenomics.org" class="resource-button">Islet Genomics</a>
     </div>
-    
+
     <!-- T1D Pancreas Genomics -->
     <div class="resource-card">
-      <div class="card-header">
-        <h3>T1D Pancreas Genomics</h3>
-      </div>
-      <p>Single-cell multiome and spatial profiling reveals pancreas cell type-specific gene regulatory programs driving type 1 diabetes progression.</p>
+      <h3>T1D Pancreas Genomics</h3>
+      <p>Single-cell multiome and spatial profiling reveals pancreas cell type-specific gene regulatory programs driving type 1 diabetes progression</p>
       <a href="http://t1d-pancreas.isletgenomics.org" class="resource-button">T1D Pancreas Genomics</a>
     </div>
     
     <!-- Multiome Islet Genomics -->
     <div class="resource-card">
-      <div class="card-header">
-        <h3>Multiome Islet Genomics</h3>
-      </div>
+      <h3>Multiome Islet Genomics</h3>
       <p>Datasets, tools, and information for pancreatic islet gene regulation research.</p>
       <a href="http://multiome.isletgenomics.org" class="resource-button">Multiome Portal</a>
     </div>
@@ -83,14 +71,14 @@ title: "Resources & Pipelines"
   font-size: 1.8em;
   font-weight: bold;
   margin: 30px 0 20px;
-  color: #683b8b; /* Purple from Gaulton Lab logo */
+  color: #2a76dd;
   border-bottom: 2px solid #e9ecef;
   padding-bottom: 10px;
 }
 
 .resource-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
   margin-bottom: 40px;
 }
@@ -101,27 +89,11 @@ title: "Resources & Pipelines"
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
 }
 
 .resource-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-}
-
-.card-header {
-  margin-bottom: 15px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.resource-logo {
-  max-height: 60px;
-  margin-bottom: 10px;
-  max-width: 100%;
 }
 
 .resource-card h3 {
@@ -136,24 +108,22 @@ title: "Resources & Pipelines"
   font-size: 0.95em;
   line-height: 1.5;
   margin-bottom: 15px;
-  flex-grow: 1; /* Makes all card descriptions take up equal space */
 }
 
 .resource-button {
   display: block;
   text-align: center;
-  background-color: #e79c9c; /* Salmon pink from Gaulton Lab logo */
+  background-color: #2a76dd;
   color: white;
   padding: 8px 16px;
   border-radius: 4px;
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.3s ease;
-  margin-top: auto; /* Pushes buttons to bottom of cards */
 }
 
 .resource-button:hover {
-  background-color: #d37f7f; /* Darker shade of salmon pink on hover */
+  background-color: #1a5cbf;
   text-decoration: none;
   color: white;
 }
@@ -168,7 +138,7 @@ title: "Resources & Pipelines"
 .pipeline-button {
   display: inline-flex;
   align-items: center;
-  background-color: #474141;
+  background-color: #333;
   color: white;
   padding: 12px 25px;
   border-radius: 6px;
@@ -178,7 +148,7 @@ title: "Resources & Pipelines"
 }
 
 .pipeline-button:hover {
-  background-color: #333; /* Darker shade of salmon pink on hover */
+  background-color: #555;
   text-decoration: none;
   color: white;
 }
@@ -201,6 +171,3 @@ title: "Resources & Pipelines"
   }
 }
 </style>
-
-<!-- Note: Add the following HTML to your page to include Font Awesome icons -->
-<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> -->
