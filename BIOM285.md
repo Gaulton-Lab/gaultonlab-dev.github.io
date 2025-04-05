@@ -20,12 +20,20 @@ author_profile: false
 **Course syllabus**:  
 NOTE: The first day of class is April 7  
 
-4/7-4/11 - Study design in biomedical science, intro to R  
-4/14-4/18	- Descriptive statistics, p-values, hypothesis testing  
-4/21-4/25	- Multiple testing, comparing means  
-4/28-5/2 - Correlation and regression  
-5/5-5/9	- Categorical data  
-5/12-5/16	- Generalized linear models, linear mixed models  
-5/19-5/23	- Intro to machine learning  
-5/26-5/30	- Survey of statistics in BMS (no class Mon 5/27, Kyle out on Fri 5/30)  
-6/2-6/6	- Student group presentations  
+April 7-11 - Study design in biomedical science, intro to R  
+April 14-18	- Descriptive statistics, p-values, hypothesis testing  
+April 21-25	- Multiple testing, comparing means  
+April 28-May 2 - Correlation and regression  
+May 5-9	- Categorical data  
+May 12-16	- Generalized linear models, linear mixed models  
+May 19-23	- Intro to machine learning  
+May 26-30	- Survey of statistics in BMS (no class Mon 5/27, Kyle out on Fri 5/30)  
+June 2-6	- Student group presentations  
+  
+------  
+
+** Week 1 - April 7-11 **  
+Mon April 7 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
+  
+
+
