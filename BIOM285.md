@@ -32,8 +32,8 @@ June 2-6	- Student group presentations
   
 ------  
 
-** Week 1 - April 7-11 **  
+**Week 1 - April 7-11**  
 Mon April 7 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
-  
-
+Wed April 9  
+Fri April 11  
 
