@@ -20,7 +20,7 @@ author_profile: false
 **Course syllabus**:  
 NOTE: The first day of class is April 7  
 
-April 7-11 - <a href="#w1">Study design in biomedical science, intro to R<a/>
+April 7-11 - <a href="#w1">Study design in biomedical science, intro to R<a/>  
 April 14-18	- Descriptive statistics, p-values, hypothesis testing  
 April 21-25	- Multiple testing, comparing means  
 April 28-May 2 - Correlation and regression  
