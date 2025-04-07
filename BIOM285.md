@@ -27,7 +27,7 @@ April 28-May 2 - Correlation and regression
 May 5-9	- Categorical data  
 May 12-16	- Generalized linear models, linear mixed models  
 May 19-23	- Intro to machine learning  
-May 26-30	- Survey of statistics in BMS (no class Mon 5/27, Kyle out on Fri 5/30)  
+May 26-30	- Survey of statistics in BMS (no class Mon 5/26, Kyle out on Fri 5/30)  
 June 2-6	- Student group presentations  
   
 ------  
