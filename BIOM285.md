@@ -31,7 +31,7 @@ May 26-30	- Survey of statistics in BMS (no class Mon 5/26, Kyle out on Fri 5/30
 June 2-6	- Student group presentations  
 
 **Assignments**:
-Assignment 1: <a href="BIOM285_a1_2025.html">link</a>  
+Assignment 1: <a href="https://gaultonlab.org/BIOM285_a1_2025.html">link</a>  
   
 ------  
 
