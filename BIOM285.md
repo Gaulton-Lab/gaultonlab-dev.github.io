@@ -39,6 +39,6 @@ Assignment 1: <a href="https://www.gaultonlab.org/BIOM285_a1_2025.html">link</a>
 <h3 id="w1">Week 1 - April 7-11</h3>
 Mon April 7 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
 Wed April 9 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
-Fri April 11 - <a href="https://docs.google.com/presentation/d/1FmSuxYe442nH-YmUuPHKzocgt38nyjcnSaYKjildYmY/edit?usp=sharing">slides</a>  
+Fri April 11 - <a href="https://docs.google.com/presentation/d/1FmSuxYe442nH-YmUuPHKzocgt38nyjcnSaYKjildYmY/edit?usp=sharing">slides</a>   
 
 
