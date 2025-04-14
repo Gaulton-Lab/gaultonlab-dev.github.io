@@ -39,10 +39,10 @@ Assignment 1: <a href="https://www.gaultonlab.org/BIOM285_a1_2025">link</a>
 <h3 id="w1">Week 1 - April 7-11</h3>
 Mon April 7 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
 Wed April 9 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
-Fri April 11 - <a href="https://docs.google.com/presentation/d/1FmSuxYe442nH-YmUuPHKzocgt38nyjcnSaYKjildYmY/edit?usp=sharing">slides</a> | code: DataHub - April_11/     
+Fri April 11 - <a href="https://docs.google.com/presentation/d/1FmSuxYe442nH-YmUuPHKzocgt38nyjcnSaYKjildYmY/edit?usp=sharing">slides</a> | code: DataHub - *April_11/*     
   
 <h3 id="w2">Week 2 - April 14-18</h3>
-Mon April 14 - <a href="https://docs.google.com/presentation/d/1KHTiTFgLJDfonlZEiS4DoKs55gmnUj-pdJsmAbvE8Cw/edit?usp=sharing">slides</a> | code: DataHub - April_14/   
+Mon April 14 - <a href="https://docs.google.com/presentation/d/1KHTiTFgLJDfonlZEiS4DoKs55gmnUj-pdJsmAbvE8Cw/edit?usp=sharing">slides</a> | code: DataHub - *April_14/*   
 Wed April 9 - slides | code  
 Fri April 11 - code  
   
