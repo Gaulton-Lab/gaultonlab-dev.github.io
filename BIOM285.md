@@ -21,7 +21,7 @@ author_profile: false
 NOTE: The first day of class is April 7  
 
 April 7-11 - <a href="#w1">Study design in biomedical science, intro to R<a/>  
-April 14-18	- Descriptive statistics, p-values, hypothesis testing  
+April 14-18	- <a href="#w2">Descriptive statistics, p-values, hypothesis testing</a>
 April 21-25	- Multiple testing, comparing means  
 April 28-May 2 - Correlation and regression  
 May 5-9	- Categorical data  
@@ -40,5 +40,9 @@ Assignment 1: <a href="https://www.gaultonlab.org/BIOM285_a1_2025">link</a>
 Mon April 7 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
 Wed April 9 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
 Fri April 11 - <a href="https://docs.google.com/presentation/d/1FmSuxYe442nH-YmUuPHKzocgt38nyjcnSaYKjildYmY/edit?usp=sharing">slides</a>   
-
-
+  
+<h3 id="w2">Week 2 - April 14-18</h3>
+Mon April 14 - <a href="https://docs.google.com/presentation/d/1KHTiTFgLJDfonlZEiS4DoKs55gmnUj-pdJsmAbvE8Cw/edit?usp=sharing">slides</a> | code  
+Wed April 9 - slides | code  
+Fri April 11 - code  
+  
