@@ -113,12 +113,12 @@ author_profile: false
 </div>
 
 <div class="hero-image">
-  Supplemental Material:  
-  Liver cell type-specific cCREs  - link
-  Liver cell type-specific chromatin states  - link  
-  Liver cell type-specific TF gene regulatory networks - link  
-  Differential association results for molecular features in liver cell types - link    
-  Summary statistics for liver cell type QTLs  - link  
+  <h3>Supplemental Material:</h3>
+  <p>Liver cell type-specific cCREs  - link</p> 
+  <p>Liver cell type-specific chromatin states  - link</p>   
+  <p>Liver cell type-specific TF gene regulatory networks - link</p>  
+  <p>Differential association results for molecular features in liver cell types - link</p>    
+  <p>Summary statistics for liver cell type QTLs  - link</p> 
 </div>
 
 <div class="citation">
