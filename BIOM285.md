@@ -53,8 +53,8 @@ Wed April 23 - <a href="https://docs.google.com/presentation/d/1y8MACMjDdwujZExE
 Fri April 25 - code: DataHub - *April_25/*  
 
 <h3 id="w4">Week 4 - April 28 - May 2</h3>  
-Mon April 28 - <a href="https://docs.google.com/presentation/d/1GZUAp3QB8j5t7Vrg6jmIR-WN1EI8AEXzBcTWt5U2SXg/edit?usp=sharing">slides</a> | code: DataHub - *April_28/*  
-Wed April 30  
+Mon April 28 - <a href="https://docs.google.com/presentation/d/1GZUAp3QB8j5t7Vrg6jmIR-WN1EI8AEXzBcTWt5U2SXg/edit?usp=sharing">slides</a> | code: DataHub - *April_28/*   
+Wed April 30   
 Fri May 2  
 
 
