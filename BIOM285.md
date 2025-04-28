@@ -23,8 +23,8 @@ NOTE: The first day of class is April 7
 April 7-11 - <a href="#w1">Study design in biomedical science, intro to R<a/>  
 April 14-18	- <a href="#w2">Descriptive statistics, p-values, hypothesis testing</a>
 April 21-25	- <a href="#w3">Multiple testing, comparing means</a>   
-April 28-May 2 - Correlation and regression  
-May 5-9	- Categorical data  
+April 28-May 2 - <a href="#w4">Comparing means, correlation</a>  
+May 5-9	- Regression, categorical data  
 May 12-16	- Generalized linear models, linear mixed models  
 May 19-23	- Intro to machine learning  
 May 26-30	- Survey of statistics in BMS (no class Mon 5/26, Kyle out on Fri 5/30)  
