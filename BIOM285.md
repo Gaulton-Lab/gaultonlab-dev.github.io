@@ -32,7 +32,9 @@ June 2-6	- Student group presentations
 
 **Assignments**:  
 Assignment 1: <a href="https://www.gaultonlab.org/BIOM285_a1_2025">link</a>   
-Assignment 2: <a href="https://www.gaultonlab.org/BIOM285_a2_2025">link</a>  
+Assignment 2: <a href="https://www.gaultonlab.org/BIOM285_a2_2025">link</a>   
+  
+Examples - <a href="example_code.R">R script</a> | <a href="example_answer.doc">answer</a>  
   
 ------  
 
