@@ -59,7 +59,7 @@ Mon April 28 - <a href="https://docs.google.com/presentation/d/1GZUAp3QB8j5t7Vrg
 Wed April 30 - <a href="https://docs.google.com/presentation/d/1yGvXz7IWOrIA9oU0Y7EsuzpsAJDDrKWKM9JRvivR1DI/edit?usp=sharing">slides</a> | code: DataHub - *April_30/*  
 Fri May 2 - code: DataHub - *May_2/*  
 
-<h3 id="w5">Week 5 - May 5 -9 9</h3>  
+<h3 id="w5">Week 5 - May 5 - 9</h3>  
 Mon May 5 - <a href="https://docs.google.com/presentation/d/1EOx2SpcXZoT6y455mCnxVyDIVt5UUp5zb1roivqwEqQ/edit?usp=sharing">slides</a> | code: Datahub - *May_5/*  
 Wed May 7  
 Fri May 9  
