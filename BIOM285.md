@@ -24,7 +24,7 @@ April 7-11 - <a href="#w1">Study design in biomedical science, intro to R<a/>
 April 14-18	- <a href="#w2">Descriptive statistics, p-values, hypothesis testing</a>  
 April 21-25	- <a href="#w3">Multiple testing, comparing means</a>   
 April 28-May 2 - <a href="#w4">Comparing means, correlation</a>  
-May 5-9	- Regression, categorical data  
+May 5-9	- <a href="#w5">Regression, categorical data</a>  
 May 12-16	- Generalized linear models, linear mixed models  
 May 19-23	- Intro to machine learning  
 May 26-30	- Survey of statistics in BMS (no class Mon 5/26, Kyle out on Fri 5/30)  
@@ -57,6 +57,14 @@ Fri April 25 - code: DataHub - *April_25/*
 <h3 id="w4">Week 4 - April 28 - May 2</h3>  
 Mon April 28 - <a href="https://docs.google.com/presentation/d/1GZUAp3QB8j5t7Vrg6jmIR-WN1EI8AEXzBcTWt5U2SXg/edit?usp=sharing">slides</a> | code: DataHub - *April_28/*   
 Wed April 30 - <a href="https://docs.google.com/presentation/d/1yGvXz7IWOrIA9oU0Y7EsuzpsAJDDrKWKM9JRvivR1DI/edit?usp=sharing">slides</a> | code: DataHub - *April_30/*  
-Fri May 2  
+Fri May 2 - code: DataHub - *May_2/*  
+
+<h3 id="w5">Week 5 - May 5 -9 9</h3>  
+Mon May 5 - <a href="https://docs.google.com/presentation/d/1EOx2SpcXZoT6y455mCnxVyDIVt5UUp5zb1roivqwEqQ/edit?usp=sharing">slides</a> | code: Datahub - *May_5/*  
+Wed May 7  
+Fri May 9  
+
+
+
 
 
