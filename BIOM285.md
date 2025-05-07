@@ -61,7 +61,7 @@ Fri May 2 - code: DataHub - *May_2/*
 
 <h3 id="w5">Week 5 - May 5 - 9</h3>  
 Mon May 5 - <a href="https://docs.google.com/presentation/d/1EOx2SpcXZoT6y455mCnxVyDIVt5UUp5zb1roivqwEqQ/edit?usp=sharing">slides</a> | code: Datahub - *May_5/*  
-Wed May 7  
+Wed May 7 - <a href="https://docs.google.com/presentation/d/1vJpTAIu8SqxBbdQqY2l23GDFmUiB17FQthLB--DRI6I/edit?usp=sharing">slides</a> | code: Datahub - *May_7/*  
 Fri May 9  
 
 
