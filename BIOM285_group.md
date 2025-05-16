@@ -1,6 +1,7 @@
 ## Group presentation overview
 
 *For research/data presentations*:  
+  
 **Brief overview of the goals of your study**  
 
 **Description of the data being collected in the study**  
@@ -16,16 +17,16 @@
 
 **Consider throughout the presentation concepts from class**  
 For example:  
-Power  
-Multiple test correction  
-One/two-sided tests
-Assumptions of tests  
-Covariates
-Biological v technical replicates  
-Effect size v significance  
-Appropriate tests/models  
-
- 
+- Power  
+- Multiple test correction  
+- One/two-sided tests
+- Assumptions of tests  
+- Covariates
+- Biological v technical replicates  
+- Effect size v significance  
+- Appropriate tests/models  
+  
+   
 *For paper presentations*:  
 
 **Brief overview of the study and the main findings of the study**
