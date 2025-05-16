@@ -1,6 +1,6 @@
 ## Group presentation overview
 
-*For research/data presentations*:  
+<h3>For research/data presentations</h3> 
   
 **Brief overview of the goals of your study**  
 
