@@ -68,8 +68,8 @@ Fri May 9
 
 <h3 id="w6">Week 6 - May 12 - 16</h3>  
 Mon May 12 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdUvo7K2eFD5xw0-1ohfQ_gm16HU/edit?usp=sharing">slides</a> | code: Datahub - *May_12/*  
-Wed May 14  
-Fri May 16  
+Wed May 14 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdUvo7K2eFD5xw0-1ohfQ_gm16HU/edit?usp=sharing">slides</a> | code: Datahub - *May_14/*  
+Fri May 16 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_16/*  
 
 
 
