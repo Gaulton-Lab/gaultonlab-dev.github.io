@@ -11,9 +11,9 @@
 
 **Hypothesis being tested in the study**  
 
-**Statistical test(s)/machine learning models for analyses**  
+**Statistical tests/models used for data analyses**  
 
-**Results/interpretation of analyses**  
+**Results/interpretation of data analyses**  
 - Effect sizes/feature importance
 - Significance of effects
 - Visualization of results and error
