@@ -1,19 +1,22 @@
 ## Group presentation overview
 
-<h3>For research/data presentations</h3> 
+<h3>For research/data presentations some things you could describe:</h3>  
   
-**Brief overview of the goals of your study**  
+**Brief background of the research**  
 
 **Description of the data being collected in the study**  
-- Sample size, replicate structure (biological, technical etc.)
-- Distribution of data if possible to estimate
-- Potential sources of unwanted/confounding variation
+- Sample size, replicate structure (biological, technical etc.)  
+- Distribution of data, if possible to estimate  
+- Potential sources of unwanted/confounding variation  
 
 **Hypothesis being tested in the study**  
 
-**Statistical test(s) used to perform hypothesis testing**  
+**Statistical test(s)/machine learning models for analyses**  
 
-**Results/interpretation of perfoming hypothesis testing**  
+**Results/interpretation of analyses**  
+- Effect sizes/feature importance
+- Significance of effects
+- Visualization of results and error
 
 **Consider throughout the presentation concepts from class**  
 For example:  
@@ -24,10 +27,11 @@ For example:
 - Covariates
 - Biological v technical replicates  
 - Effect size v significance  
-- Appropriate tests/models  
+- Appropriate tests/models
+- 
   
    
-<h3>For paper presentations</h3>: 
+<h3>For paper presentations some things you could consider</h3>: 
 
 **Brief overview of the study and the main findings of the study**
  
