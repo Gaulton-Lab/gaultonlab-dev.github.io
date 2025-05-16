@@ -12,7 +12,9 @@
 **Hypothesis being tested in the study**  
 
 **Statistical tests/models used for data analyses**  
-
+- If using a bioinformatics tool, describe as best you can what test is used by the tool  
+  *(e.g. DESeq2 uses a GLM)*  
+  
 **Results/interpretation of data analyses**  
 - Effect sizes/feature importance
 - Significance of effects
