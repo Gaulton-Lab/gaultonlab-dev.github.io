@@ -28,7 +28,7 @@ For example:
 - Biological v technical replicates  
 - Effect size v significance  
 - Appropriate tests/models
-- 
+- Outliers or other interesting aspects of your data  
   
    
 <h3>For paper presentations some things you could consider</h3>: 
