@@ -38,7 +38,7 @@ Assignment 4: <a href="https://www.gaultonlab.org/BIOM285_a4_2025">link</a>
   
 Examples - <a href="https://www.gaultonlab.org/example_script.R">R script</a> | <a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>  
 
-**Presentations**:  
+**Presentations**:   
 Guide to presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
   
 ------  
