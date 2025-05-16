@@ -27,7 +27,7 @@ For example:
 - Appropriate tests/models  
   
    
-*For paper presentations*:  
+<h3>For paper presentations</h3>: 
 
 **Brief overview of the study and the main findings of the study**
  
