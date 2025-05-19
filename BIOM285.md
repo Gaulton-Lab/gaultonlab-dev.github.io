@@ -75,9 +75,9 @@ Wed May 14 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdU
 Fri May 16 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_16/*  
 
 <h3 id="w7">Week 7 - May 19 - 23</h3>  
-Mon May 12 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_19/*   
-Wed May 14    
-Fri May 16  
+Mon May 19 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_19/*   
+Wed May 21    
+Fri May 23    
 
 
 
