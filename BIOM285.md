@@ -26,7 +26,7 @@ April 21-25	- <a href="#w3">Multiple testing, comparing means</a>
 April 28-May 2 - <a href="#w4">Comparing means, correlation</a>  
 May 5-9	- <a href="#w5">Regression, categorical data</a>  
 May 12-16	- <a href="#w6">Generalized linear models, linear mixed models</a>  
-May 19-23	- Intro to machine learning  
+May 19-23	- <a href="#w7">Linear mixed models, Intro to machine learning</a>   
 May 26-30	- Survey of statistics in BMS (no class Mon 5/26, Kyle out on Fri 5/30)  
 June 2-6	- Student group presentations  
 
@@ -73,6 +73,11 @@ Fri May 9
 Mon May 12 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdUvo7K2eFD5xw0-1ohfQ_gm16HU/edit?usp=sharing">slides</a> | code: Datahub - *May_12/*  
 Wed May 14 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdUvo7K2eFD5xw0-1ohfQ_gm16HU/edit?usp=sharing">slides</a> | code: Datahub - *May_14/*  
 Fri May 16 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_16/*  
+
+<h3 id="w7">Week 7 - May 19 - 23</h3>  
+Mon May 12 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_19/*   
+Wed May 14    
+Fri May 16  
 
 
 
