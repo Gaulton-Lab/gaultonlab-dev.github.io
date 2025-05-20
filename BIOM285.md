@@ -85,6 +85,8 @@ Wed May 28:
 - Weston Elison - Mixed models in single cell epigenomics
 - Kellen Cavagnero - Transcriptomics
 - Lauren Clubb - Bulk/single cell transcriptomics  
+
+  
 Fri May 30: 
 - Xinkai Wu - Ribosome pausing  
 - Emily Griffin - Genetic association  
