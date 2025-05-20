@@ -87,7 +87,7 @@ Wed May 28:
 - Lauren Clubb - Bulk/single cell transcriptomics  
 Fri May 30: 
 - Xinkai Wu - Ribosome pausing  
-- Emily Griffen - Genetic association  
+- Emily Griffin - Genetic association  
 
 
 
