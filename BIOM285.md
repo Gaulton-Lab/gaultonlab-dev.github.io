@@ -27,7 +27,7 @@ April 28-May 2 - <a href="#w4">Comparing means, correlation</a>
 May 5-9	- <a href="#w5">Regression, categorical data</a>  
 May 12-16	- <a href="#w6">Generalized linear models, linear mixed models</a>  
 May 19-23	- <a href="#w7">Linear mixed models, Intro to machine learning</a>   
-May 26-30	- Survey of statistics in BMS (no class Mon 5/26)    
+May 26-30	- <a href="#w8">Survey of statistics in BMS (no class Mon 5/26)</a>      
 June 2-6	- Student group presentations  
 
 **Assignments**:  
@@ -78,6 +78,17 @@ Fri May 16 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiG
 Mon May 19 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_19/*   
 Wed May 21 - <a href="https://docs.google.com/presentation/d/1jZ2_7KgArsj5YCJjNqb3T9h0NwaeSlkZOZgjesML6fA/edit?usp=sharing">slides</a> | code: Datahub - *May_21/*  
 Fri May 23 - code: Datahub - *May_23/*  
+
+<h3 id="w7">Week 8 - May 26 - 30</h3>  
+Mon May 26 - NO CLASS  
+Wed May 28:   
+- Weston Elison - Mixed models in single cell epigenomics
+- Kellen Cavagnero - Transcriptomics
+- Lauren Clubb - Bulk/single cell transcriptomics
+Fri May 30: 
+- Xinkai Wu - Ribosome pausing  
+- Emily Griffen - Genetic association  
+
 
 
 
