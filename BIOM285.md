@@ -67,7 +67,7 @@ Fri May 2 - code: DataHub - *May_2/*
 <h3 id="w5">Week 5 - May 5 - 9</h3>  
 Mon May 5 - <a href="https://docs.google.com/presentation/d/1EOx2SpcXZoT6y455mCnxVyDIVt5UUp5zb1roivqwEqQ/edit?usp=sharing">slides</a> | code: Datahub - *May_5/*  
 Wed May 7 - <a href="https://docs.google.com/presentation/d/1vJpTAIu8SqxBbdQqY2l23GDFmUiB17FQthLB--DRI6I/edit?usp=sharing">slides</a> | code: Datahub - *May_7/*  
-Fri May 9   
+Fri May 9  - code: Datahub - *May_9/*
 
 <h3 id="w6">Week 6 - May 12 - 16</h3>  
 Mon May 12 - <a href="https://docs.google.com/presentation/d/1Fk0rHQJ05DgvAEZfdUvo7K2eFD5xw0-1ohfQ_gm16HU/edit?usp=sharing">slides</a> | code: Datahub - *May_12/*  
@@ -76,10 +76,8 @@ Fri May 16 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiG
 
 <h3 id="w7">Week 7 - May 19 - 23</h3>  
 Mon May 19 - <a href="https://docs.google.com/presentation/d/1_0MdSKU5OYTaJrphiGdFYk3o_jANXI1kC7WN7h4W4tE/edit?usp=sharing">slides</a> | code: Datahub - *May_19/*   
-Wed May 21    
-Fri May 23    
-
-
+Wed May 21 - <a href="https://docs.google.com/presentation/d/1jZ2_7KgArsj5YCJjNqb3T9h0NwaeSlkZOZgjesML6fA/edit?usp=sharing">slides</a> | code: Datahub - *May_21/*  
+Fri May 23 - code: Datahub - *May_23/*  
 
 
 
