@@ -84,7 +84,7 @@ Mon May 26 - NO CLASS
 Wed May 28:   
 - Weston Elison - Mixed models in single cell epigenomics
 - Kellen Cavagnero - Transcriptomics
-- Lauren Clubb - Bulk/single cell transcriptomics  
+- Lauren Clubb - Bulk transcriptomics, gene set enrichment    
 
   
 Fri May 30: 
