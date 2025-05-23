@@ -81,15 +81,15 @@ Fri May 23 - code: Datahub - *May_23/*
 
 <h3 id="w7">Week 8 - May 26 - 30</h3>  
 Mon May 26 - NO CLASS  
+
 Wed May 28:   
 - Weston Elison - Mixed models in single cell epigenomics
 - Kellen Cavagnero - Transcriptomics
-- Lauren Clubb - Bulk transcriptomics, gene set enrichment    
-
+- Emily Griffin - Genetic association   
   
 Fri May 30: 
-- Xinkai Wu - Ribosome pausing  
-- Emily Griffin - Genetic association  
+- Xinkai Wu - Ribosome pausing
+- Lauren Clubb - Bulk transcriptomics, gene set enrichment   
 
 
 
