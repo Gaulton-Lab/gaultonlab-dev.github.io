@@ -92,7 +92,7 @@ Fri May 30:
 - Lauren Clubb - Bulk transcriptomics, gene set enrichment   
 
 <h3 id="w9">Week 9 - June 2 - 6</h3>   
-Mon Jun 2  
+Mon Jun 2   
 - Group 1 (Xinjian	Katie	Zia	Dorothy)  
 - Group 2	(Tiffany	Hannah	Megan	Anushka)  
 - Group 3	(Lena	Jaynia	Gele	Brittany)  
