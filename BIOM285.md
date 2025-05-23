@@ -28,7 +28,7 @@ May 5-9	- <a href="#w5">Regression, categorical data</a>
 May 12-16	- <a href="#w6">Generalized linear models, linear mixed models</a>  
 May 19-23	- <a href="#w7">Linear mixed models, Intro to machine learning</a>   
 May 26-30	- <a href="#w8">Survey of statistics in BMS (no class Mon 5/26)</a>      
-June 2-6	- Student group presentations  
+June 2-6	- <a href="#w9">Student group presentations</a>  
 
 **Assignments**:  
 Assignment 1: <a href="https://www.gaultonlab.org/BIOM285_a1_2025">link</a>   
