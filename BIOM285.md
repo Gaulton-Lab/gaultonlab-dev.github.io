@@ -92,11 +92,20 @@ Fri May 30:
 - Lauren Clubb - Bulk transcriptomics, gene set enrichment   
 
 <h3 id="w9">Week 9 - June 2 - 6</h3>   
-Mon Jun 2 - Group 1 (Xinjian	Katie	Zia	Dorothy), Group 2	(Tiffany	Hannah	Megan	Anushka), Group 3	(Lena	Jaynia	Gele	Brittany)   
+Mon Jun 2  
+- Group 1 (Xinjian	Katie	Zia	Dorothy)  
+- Group 2	(Tiffany	Hannah	Megan	Anushka)  
+- Group 3	(Lena	Jaynia	Gele	Brittany)  
 
-Wed Jun 4 - Group 4	(Kelly	Rhea	Jason), Group 5	(Cindy	Janeth	Eduardo	Natalia), Group 6 (Courtney	Ilse	Mark	Caitlyn)  
+Wed Jun 4
+- Group 4	(Kelly	Rhea	Jason)
+- Group 5	(Cindy	Janeth	Eduardo	Natalia)  
+- Group 6 (Courtney	Ilse	Mark	Caitlyn)   
 
-Fri Jun 6 - Group 7	(Ziyi	Yuren), Group 8	(Kyle	Andre	Derek	Kian), Group 9 (Priscilla	Ananya	Andrea	Adriana)  
+Fri Jun 6
+- Group 7	(Ziyi	Yuren)
+- Group 8	(Kyle	Andre	Derek	Kian)
+- Group 9 (Priscilla	Ananya	Andrea	Adriana)   
 
 
 
