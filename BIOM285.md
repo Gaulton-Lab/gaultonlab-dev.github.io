@@ -95,7 +95,7 @@ Fri May 30:
 Mon Jun 2   
 - Group 1 (Xinjian	Katie	Zia	Dorothy)  
 - Group 2	(Tiffany	Hannah	Megan	Anushka)  
-- Group 3	(Lena	Jaynia	Gele	Brittany)  
+- Group 8	(Kyle	Andre	Derek	Kian)  
 
 Wed Jun 4
 - Group 4	(Kelly	Rhea	Jason)
@@ -104,7 +104,7 @@ Wed Jun 4
 
 Fri Jun 6
 - Group 7	(Ziyi	Yuren)
-- Group 8	(Kyle	Andre	Derek	Kian)
+- Group 3	(Lena	Jaynia	Gele	Brittany)  
 - Group 9 (Priscilla	Ananya	Andrea	Adriana)   
 
 
