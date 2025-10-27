@@ -26,33 +26,44 @@ feature_row0-3:
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Emily Griffin</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>USC, BS Neuroscience; UCSD, PhD Biomedical Sciences</div>"
 
 feature_row0-4:
-  - image_path: assets/images/Abigail-Howell.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Abigail Howell</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>ASU, BS Biomedical Sciences; ASU, PhD Molecular and Cellular Biology</div>"
   - image_path: assets/images/Alex-Ghaben.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Alex Ghaben</div><div style='text-align: center; font-size: 1.3em;'>Pediatric Endocrinology Fellow</div><div style='text-align: center; font-size: 1.3em;'>MIT, BS Chemical-Biological Engineering and Biology; UT Southwestern, MD and PhD Integrative Biology</div>"
+  - image_path: assets/images/Rebecca.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Rebecca Melton</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>SFSU, BS Biology: Physiology; SFSU, MS Biology: Physiology and Behavior; UCSD, PhD Biomedical Sciences</div>"
   - image_path: assets/images/Mei.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Mei-Lin Okino</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Bioinformatics</div>"
 
 feature_row0-5:
   - image_path: assets/images/Hannah.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Hannah Mummey</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>Wellesley College, BA Biochemistry</div>"
-  - image_path: assets/images/Jackie.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Jackie Newsome</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>UNLV, BS Biological Sciences, Biotechnology Focus; UNLV, MS Biological Sciences</div>"
-  - image_path: assets/images/Rebecca.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Rebecca Melton</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>SFSU, BS Biology: Physiology; SFSU, MS Biology: Physiology and Behavior</div>"
-
-feature_row0-6:
   - image_path: assets/images/Weston.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Weston Elison</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Brigham Young University, BS Physiology and Developmental Biology</div>"
   - image_path: assets/images/Tan.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Tanmayi Vashist</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Duke University, Bachelor of Science in Biology</div>"
+
+feature_row0-6:
   - image_path: assets/images/Megan.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Megan Huang</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, Bachelor of Science in Biochemistry and Cell Biology</div>"
+  - image_path: assets/images/Shivani.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Shivani Lakkaraju</div><div style='text-align: center; font-size: 1.3em;'>MD/PhD Student, Biomedical Sciences<br>(co-mentored by Bing Ren)</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Human Biology</div>"
+  - image_path: assets/images/Maddie.heic
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Madeleine Pittigher</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>Brown University, BS Computational Biology</div>"
+
 feature_row0-7:
-  - image_path: assets/images/Bailey.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Bailey Omahony</div><div style='text-align: center; font-size: 1.3em;'>Undergraduate Researcher</div>"
+  - image_path: assets/images/Matt.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Matthew J Kim</div><div style='text-align: center; font-size: 1.3em;'>MD/PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Cornell University, BS Biological Engineering</div>"
+  - image_path: assets/images/Parwana.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Parwana Khazi</div><div style='text-align: center; font-size: 1.3em;'>MD/PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>Santa Clara University, BS Biomedical Biology and Public Health Science, BA Spanish Studies; UCLA, Master's of Social Science: Anthropology</div>"
+  - image_path: assets/images/Irene.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Irene Song</div><div style='text-align: center; font-size: 1.3em;'>Master's Student, Bioengineering</div><div style='text-align: center; font-size: 1.3em;'>Stony Brook University, BE Biomedical Engineering</div>"
+
+feature_row0-8:
   - image_path: assets/images/Rebecca_Tseng.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Rebecca Tseng</div><div style='text-align: center; font-size: 1.3em;'>Undergraduate Researcher</div>"
+  - image_path: assets/images/Allie.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Allie Shi</div><div style='text-align: center; font-size: 1.3em;'>Undergraduate Researcher</div><div style='text-align: center; font-size: 1.3em;'>UCSD</div>"
+  - image_path: assets/images/Leyan.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Leyan Huang</div><div style='text-align: center; font-size: 1.3em;'>Undergraduate Researcher</div><div style='text-align: center; font-size: 1.3em;'>UCSD</div>"
 
 ---
 {% include feature_row_original id="feature_row0-1" type="center" class="full" %}
@@ -62,9 +73,10 @@ feature_row0-7:
 {% include feature_row_original id="feature_row0-5" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-6" type="center" class="full" %}
 {% include feature_row_original id="feature_row0-7" type="center" class="full" %}
+{% include feature_row_original id="feature_row0-8" type="center" class="full" %}
 
 <h2 style="text-align: center;">Former Lab Members</h2>
-<div style="font-size: 0.8em;">Graduate: Anthony Aylward (2016-2021), Joshua Chiou (2017-2021), Sigal Shaul (2019), Whitney Vien (2017), Carolyn Mcgrail (2020-2024), Ruth Elgamal (2020-2024).</div>
-<div style="font-size: 0.8em;">Postdoctoral: Paola Benaglio (2018-2022), Jaspreet Kaur (2018-2021)</div>
-<div style="font-size: 0.8em;">Undergraduate: Jovina Djulamsah (2022-2023), Harnidh Kaur (2021 - 2024), Kennedy Vanderstel (2021-2022), Ariana Golshani (2019-2022), Sharlene Diep (2019-2021), Katha Kaogonkar (2019-2020), Elisha Beebe (2018-2019), Serina Huang (2016-2018), Samuel Morabito (2016-2018), Mei-Lin Okino (2016-2018), Alison Deogaygay (2017-2019), Hudson Cooper (2016-2017), Unnati Ghandi (2017), Christopher Wong (2017)</div>
+<div style="font-size: 0.8em;">Graduate: Anthony Aylward (2016-2021), Joshua Chiou (2017-2021), Sigal Shaul (2019), Whitney Vien (2017), Carolyn Mcgrail (2020-2024), Ruth Elgamal (2020-2024), Jackie Newsome (2018-2024).</div>
+<div style="font-size: 0.8em;">Postdoctoral: Paola Benaglio (2018-2022), Jaspreet Kaur (2018-2021), Abigail Howell (2024-2025)</div>
+<div style="font-size: 0.8em;">Undergraduate: Jovina Djulamsah (2022-2023), Harnidh Kaur (2021 - 2024), Kennedy Vanderstel (2021-2022), Ariana Golshani (2019-2022), Sharlene Diep (2019-2021), Katha Kaogonkar (2019-2020), Elisha Beebe (2018-2019), Serina Huang (2016-2018), Samuel Morabito (2016-2018), Mei-Lin Okino (2016-2018), Alison Deogaygay (2017-2019), Hudson Cooper (2016-2017), Unnati Ghandi (2017), Christopher Wong (2017), Bailey Omahony (2023-2025)</div>
 <div style="font-size: 0.8em;">Summer students: Bryttany Weary, Isis Diaz, Andres Padilla, Griselda Ruiz, Hermak Banda, Karla Martinez, Eamon Aalipour, Olivia Golston</div>
