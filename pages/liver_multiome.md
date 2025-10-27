@@ -4,6 +4,7 @@ author_profile: false
 ---
 <!-- Include Font Awesome for icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
 <style>
   body {
     font-family: 'Arial', sans-serif;
@@ -25,18 +26,15 @@ author_profile: false
   }
   .hero-image {
     text-align: center;
-    margin: 20px 0 40px 0;
-    padding: 30px;
-    background-color: #f8f9fa;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    margin: 20px 0;
   }
   .hero-image h3 {
     color: #683b8b; /* Purple from Gaulton Lab logo */
-    font-size: 1.5em;
-    max-width: 800px;
-    margin: 0 auto;
-    line-height: 1.4;
+  }
+  .hero-image img {
+    width: 450px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   .card-container {
     display: flex;
@@ -87,14 +85,19 @@ author_profile: false
     color: white;
     text-decoration: none;
   }
+  .citation {
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 2px solid #e9ecef;
+  }
+  .citation h2 {
+    color: #683b8b; /* Purple from Gaulton Lab logo */
+  }
   
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .card {
       width: 45%;
-    }
-    .hero-image h3 {
-      font-size: 1.3em;
     }
   }
   @media (max-width: 576px) {
@@ -103,34 +106,24 @@ author_profile: false
     }
   }
 </style>
+
 <div class="hero-image">
-  <h3>Single-cell multiome and spatial profiling reveals pancreas cell type-specific gene regulatory programs driving type 1 diabetes progression</h3>
+  <h3>Single cell multiomics reveals drivers of metabolic dysfunction-associated steatohepatitis</h3>
+  <img src="/assets/images/liver.png" alt="logo">
 </div>
-<div class="card-container">
-  <!-- Single Cell Browser -->
-  <div class="card">
-    <i class="fas fa-dna"></i>
-    <a href="http://tools.cmdga.org/t1d-whole-pancreas" target="_blank">Single Cell Browser</a>
-  </div>
-  
-  <!-- Single Cell Spatial Browser -->
-  <div class="card">
-    <i class="fas fa-atom"></i>
-    <a href="http://tools.cmdga.org/npod_spatial" target="_blank">Single Cell Spatial Browser</a>
-  </div>
-  
-  <!-- Differential Expression Browser -->
-  <div class="card">
-    <i class="fas fa-chart-line"></i>
-    <a href="https://tools.cmdga.org/t1d-pancreas-expression-browser" target="_blank">Differential Expression Browser</a>
-  </div>
-  
-  <!-- User Manual -->
-  <div class="card">
-    <i class="fas fa-book"></i>
-    <a href="http://tools.cmdga.org/user-manual" target="_blank">User Manual</a>
-  </div>
+
+<div class="hero-image">
+  <h3>Supplemental Material:</h3>
+  <p>Liver cell type-specific cCREs  - link</p> 
+  <p>Liver cell type-specific chromatin states  - link</p>   
+  <p>Liver cell type-specific TF gene regulatory networks - link</p>  
+  <p>Differential association results for molecular features in liver cell types - link</p>    
+  <p>Summary statistics for liver cell type QTLs  - link</p> 
 </div>
-<br><br>
-**Supplementary material for Melton et al**  
-Supplementary data:  <a href="https://www.dropbox.com/scl/fo/tuj93boiza01avg5bt374/AJ7tcEJOJA9Q8nDI88tVnLw?rlkey=psl7xpc87qk21klmk75mapdxv&st=5surh1tg&dl=0">link</a>  
+
+<div class="citation">
+  <h2>Citation</h2>
+  <p>
+    Elison et al.  Single cell multiomics reveals drivers of metabolic dysfunction-associated steatohepatitis.  submitted.
+  </p>
+</div>
