@@ -46,7 +46,7 @@ feature_row0-6:
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Megan Huang</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, Bachelor of Science in Biochemistry and Cell Biology</div>"
   - image_path: assets/images/Shivani.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Shivani Lakkaraju</div><div style='text-align: center; font-size: 1.3em;'>MD/PhD Student, Biomedical Sciences<br>(co-mentored by Bing Ren)</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Human Biology</div>"
-  - image_path: assets/images/Maddie.heic
+  - image_path: assets/images/Maddie.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Madeleine Pittigher</div><div style='text-align: center; font-size: 1.3em;'>PhD Student, Bioinformatics and Systems Biology</div><div style='text-align: center; font-size: 1.3em;'>Brown University, BS Computational Biology</div>"
 
 feature_row0-7:
