@@ -26,10 +26,10 @@ feature_row0-3:
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Emily Griffin</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>USC, BS Neuroscience; UCSD, PhD Biomedical Sciences</div>"
 
 feature_row0-4:
-  - image_path: assets/images/Alex-Ghaben.png
-    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Alex Ghaben</div><div style='text-align: center; font-size: 1.3em;'>Pediatric Endocrinology Fellow</div><div style='text-align: center; font-size: 1.3em;'>MIT, BS Chemical-Biological Engineering and Biology; UT Southwestern, MD and PhD Integrative Biology</div>"
   - image_path: assets/images/Rebecca.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Rebecca Melton</div><div style='text-align: center; font-size: 1.3em;'>Postdoc</div><div style='text-align: center; font-size: 1.3em;'>SFSU, BS Biology: Physiology; SFSU, MS Biology: Physiology and Behavior; UCSD, PhD Biomedical Sciences</div>"
+  - image_path: assets/images/Alex-Ghaben.png
+    excerpt: "<div style='text-align: center; font-size: 1.3em;'>Alex Ghaben</div><div style='text-align: center; font-size: 1.3em;'>Pediatric Endocrinology Fellow</div><div style='text-align: center; font-size: 1.3em;'>MIT, BS Chemical-Biological Engineering and Biology; UT Southwestern, MD and PhD Integrative Biology</div>"
   - image_path: assets/images/Mei.png
     excerpt: "<div style='text-align: center; font-size: 1.3em;'>Mei-Lin Okino</div><div style='text-align: center; font-size: 1.3em;'>PhD Candidate, Biomedical Sciences</div><div style='text-align: center; font-size: 1.3em;'>UCSD, BS Bioinformatics</div>"
 
