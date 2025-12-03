@@ -124,6 +124,16 @@ author_profile: false
     <i class="fas fa-chart-line"></i>
     <a href="https://tools.cmdga.org/t1d-pancreas-expression-browser" target="_blank">Differential Expression Browser</a>
   </div>
+  <!-- scRNA Download -->
+  <div class="card">
+    <i class="fas fa-download"></i>
+    <a href="https://npod-data-download.s3.us-west-2.amazonaws.com/072424_npod_RNA.rds" target="_blank">scRNA map of Pancreas</a>
+  </div>
+  <!-- scATAC Download -->
+  <div class="card">
+    <i class="fas fa-download"></i>
+    <a href="https://npod-data-download.s3.us-west-2.amazonaws.com/120125_npod_ATAC.rds" target="_blank">scATAC map of Pancreas</a>
+  </div>
   
   <!-- User Manual -->
   <div class="card">
