@@ -29,12 +29,12 @@ May 25-29	- <a href="#w8">Survey of statistics in BMS (no class Mon 5/25)</a>
 June 1-5	- <a href="#w9">Class group presentations</a>  
 
 **Assignments**:  
-Assignment 1: <a href="">link</a>   
-Assignment 2: <a href="">link</a>   
-Assignment 3: <a href="">link</a>  
-Assignment 4: <a href="">link</a>   
+Assignment 1   
+Assignment 2  
+Assignment 3
+Assignment 4 
   
 Examples - <a href="https://www.gaultonlab.org/example_script.R">R script</a> | <a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>  
-
+  
 **Presentations**:   
-Guide to presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
+Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
