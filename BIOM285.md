@@ -34,9 +34,7 @@ Assignment 2
 Assignment 3  
 Assignment 4 
   
-*Example:* 
-<a href="https://www.gaultonlab.org/example_script.R">R script</a>  
-<a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>   
+*Example:*  <a href="https://www.gaultonlab.org/example_script.R">R script</a>, <a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>   
   
 **Presentations**:   
 Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
