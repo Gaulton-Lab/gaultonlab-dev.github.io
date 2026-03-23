@@ -12,7 +12,7 @@ author_profile: false
 **Office hours**:  F 2:30-3:30 PM, CMM East Room 1059  
 
 **Slack**:  biom285-2026.slack.com  
-*Link to join Slack:* https://join.slack.com/t/biom285-2026/shared_invite/zt-3td0rogl0-QYqzPkk8m0O7Op3FpKcPPw
+*Link to join Slack is on Canvas*  
 <br>
 
 **Course syllabus**:  
