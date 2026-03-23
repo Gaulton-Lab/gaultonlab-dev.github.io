@@ -31,10 +31,12 @@ June 1-5	- <a href="#w9">Class group presentations</a>
 **Assignments**:  
 Assignment 1   
 Assignment 2  
-Assignment 3
+Assignment 3  
 Assignment 4 
   
-Examples - <a href="https://www.gaultonlab.org/example_script.R">R script</a> | <a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>  
+*Example:* 
+<a href="https://www.gaultonlab.org/example_script.R">R script</a>  
+<a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>   
   
 **Presentations**:   
 Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
