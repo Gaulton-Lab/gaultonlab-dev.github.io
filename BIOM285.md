@@ -4,7 +4,7 @@ author_profile: false
 
 ---
 
-## BIOM285, Spring 2025
+## BIOM285, Spring 2026
 
 **Course director**: Kyle Gaulton (kgaulton@ucsd.edu)
 
