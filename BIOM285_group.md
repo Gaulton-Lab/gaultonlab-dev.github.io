@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: false
+
+---
+
 ## Group presentation overview
 
 <h3>For research/data presentations some things you could describe:</h3>  
