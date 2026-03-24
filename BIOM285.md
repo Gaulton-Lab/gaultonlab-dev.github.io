@@ -6,7 +6,9 @@ author_profile: false
 
 ## BIOM285, Spring 2026
 
-**Course director**: Kyle Gaulton (kgaulton@ucsd.edu)
+**Course director**: Kyle Gaulton (kgaulton@ucsd.edu)  
+
+**Teaching assistant**: Maddie Pittigher (mpittigher@ucsd.edu)  
 
 **Class times**: MWF 1:30-2:30 PM, CMM East Room 2047  
 **Office hours**:  F 2:30-3:30 PM, CMM East Room 1059  
