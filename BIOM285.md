@@ -21,7 +21,7 @@ author_profile: false
 NOTE: The first day of class is Monday, April 6  
 
 April 6-10 - Study design in biomedical science, intro to R   
-April 13-17	- Descriptive statistics, p-values, hypothesis testing  
+April 13-17	- Hypothesis testing, p-values  
 April 20-24	- Multiple testing, comparing means  
 April 27-May 1 - Comparing means, correlation  
 May 4-8	- Regression, categorical data  
