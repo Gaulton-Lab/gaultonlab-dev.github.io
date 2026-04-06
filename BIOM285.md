@@ -10,8 +10,8 @@ author_profile: false
 
 **Teaching assistant**: Maddie Pittigher (mpittigher@ucsd.edu)  
 
-**Class times**: MWF 1:30-2:30 PM, CMM East Room 2047  
-**Office hours**:  F 2:30-3:30 PM, CMM East Room 1059  
+**Class times**: WF 1:30-3:00 PM, CMM East Room 2047  
+**Office hours**:  M 1:30-2:30 PM, CMM East first floor/Room 1059  
 
 **Slack**:  biom285-2026.slack.com  
 *Link to join Slack is on Canvas*  
