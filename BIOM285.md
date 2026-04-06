@@ -20,7 +20,7 @@ author_profile: false
 **Course syllabus (draft)**:  
 NOTE: The first day of class is Monday, April 6  
 
-April 6-10 - Study design in biomedical science, intro to R   
+April 6-10 - <a href="#w1">Study design in biomedical science, intro to R</a>    
 April 13-17	- Hypothesis testing, p-values  
 April 20-24	- Multiple testing, comparing means  
 April 27-May 1 - Comparing means, correlation  
@@ -37,3 +37,12 @@ June 1-5	- Class group presentations
   
 **Presentations**:   
 Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group">link</a>  
+  
+
+------
+
+
+<h3 id="w1">Study design in biomedical science, intro to R</h3>  
+Mon April 6 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
+Wed April 8 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
+Fri April 10 - code: DataHub - *April_11/*   
