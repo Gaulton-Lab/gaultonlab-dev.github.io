@@ -45,4 +45,4 @@ Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group"
 <h3 id="w1">Study design in biomedical science, intro to R</h3>  
 Mon April 6 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
 Wed April 8 - <a href="https://docs.google.com/presentation/d/1O1I5mCIhuAK-mVwjZqrNRvAU3wJO5xQ_ygqJ2Fi9KiM/edit?usp=sharing">slides</a>  
-Fri April 10 - code: DataHub - *April_11/*   
+Fri April 10 - code: DataHub - *April_10/*   
