@@ -31,7 +31,7 @@ May 25-29	- Survey of statistics in BMS
 June 1-5	- Class group presentations (class this week is Mon-Wed, no Fri)   
 
 **Assignments**:  
-<a href="www.gaultonlab.org/BIOM285_a1_2026.html">Assignment 1</a> - due April 24  
+<a href="https://www.gaultonlab.org/BIOM285_a1_2026.html">Assignment 1</a> - due April 24  
 
 *Will be posted here throughout the quarter*  
   
