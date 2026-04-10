@@ -27,7 +27,7 @@ April 27-May 1 - Correlation, regression
 May 4-8	- Categorical data, Generalized linear models   
 May 11-15	- Linear mixed models, Intro to machine learning    
 May 18-22	- Survey of statistics in BMS  
-May 25-29	- Survey of statistics in BMS 
+May 25-29	- Survey of statistics in BMS  
 June 1-5	- Class group presentations (class this week is Mon-Wed, no Fri)   
 
 **Assignments**:  
