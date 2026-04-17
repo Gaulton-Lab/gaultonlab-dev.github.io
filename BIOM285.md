@@ -52,6 +52,10 @@ Fri April 10- <a href="https://docs.google.com/presentation/d/1mKcM3xYT7LjwFMccF
 <h3 id="w2">Hypothesis testing, p-values, multiple testing</h3>
 Wed April 15   
 Lecture: <a href="https://docs.google.com/presentation/d/13RBWS-IWdDMCK5q56hEkjvRs1I3tu2xqyDpoZuzoymg/edit?usp=sharing">slides</a>  
-Code/Examples: DataHub April_15/. 
-
+Code/Examples: DataHub April_15/   
+<br>
+Fri April 17  
+Lecture: <a href="https://docs.google.com/presentation/d/1rJkMdnRyVXTndI42qV5EX-za9emcPURuhtbY1tf4GT4/edit?usp=sharing">slides</a>  
+Code/Examples: DataHub April_17/  
+<br>
 
