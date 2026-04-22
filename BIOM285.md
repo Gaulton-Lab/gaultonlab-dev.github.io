@@ -21,8 +21,8 @@ author_profile: false
 NOTE: The first day of class is Monday, April 6  
 
 April 6-10 - <a href="#w1">Study design in biomedical science, intro to R</a>    
-April 13-17	- Hypothesis testing, p-values, multiple testing  
-April 20-24	- Comparing means   
+April 13-17	- <a href="w2">Hypothesis testing, p-values, multiple testing</a>  
+April 20-24	- <a href="w3">Comparing means</a>  
 April 27-May 1 - Correlation, regression   
 May 4-8	- Categorical data, Generalized linear models   
 May 11-15	- Linear mixed models, Intro to machine learning    
@@ -57,5 +57,15 @@ Code/Examples: DataHub April_15/
 Fri April 17  
 Lecture: <a href="https://docs.google.com/presentation/d/1rJkMdnRyVXTndI42qV5EX-za9emcPURuhtbY1tf4GT4/edit?usp=sharing">slides</a>  
 Code/Examples: DataHub April_17/  
+<br>
+
+<h3 id="w3">Comparing means</h3>  
+Wed April 22   
+Lecture: <a href="https://docs.google.com/presentation/d/1LxjTmAuYLNxtVvQfMFG0CRgFrP5qudcWHhXKl6aIVsw/edit?usp=sharing">slides</a>  
+Code/Examples: DataHub April_22/   
+<br>
+Fri April 24  
+Lecture: slides  
+Code/Examples: DataHub April_24/  
 <br>
 
