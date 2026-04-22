@@ -21,8 +21,8 @@ author_profile: false
 NOTE: The first day of class is Monday, April 6  
 
 April 6-10 - <a href="#w1">Study design in biomedical science, intro to R</a>    
-April 13-17	- <a href="w2">Hypothesis testing, p-values, multiple testing</a>  
-April 20-24	- <a href="w3">Comparing means</a>  
+April 13-17	- <a href="#w2">Hypothesis testing, p-values, multiple testing</a>  
+April 20-24	- <a href="#w3">Comparing means</a>  
 April 27-May 1 - Correlation, regression   
 May 4-8	- Categorical data, Generalized linear models   
 May 11-15	- Linear mixed models, Intro to machine learning    
@@ -48,6 +48,7 @@ Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group"
 Mon April 6 - <a href="https://docs.google.com/presentation/d/1sEwHiaLSsuctcx9hdtJfj5TMw2fU8PVoGDyr44-74p8/edit?usp=sharing">slides</a>  
 Wed April 8 - <a href="https://docs.google.com/presentation/d/1sEwHiaLSsuctcx9hdtJfj5TMw2fU8PVoGDyr44-74p8/edit?usp=sharing">slides</a>  
 Fri April 10- <a href="https://docs.google.com/presentation/d/1mKcM3xYT7LjwFMccFKyeFXZhx8AwC4OlQeEOi7YJ7Q8/edit?usp=sharing">slides</a> | <a href="https://docs.google.com/presentation/d/1uT3KvAJcF1V99fTDLHOm6RpgeiqrrDdd691B8cR43Nw/edit?usp=sharing">extra slides</a> | code: DataHub - *April_10/*  
+<br>
 
 <h3 id="w2">Hypothesis testing, p-values, multiple testing</h3>
 Wed April 15   
