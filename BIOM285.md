@@ -66,7 +66,7 @@ Lecture: <a href="https://docs.google.com/presentation/d/1LxjTmAuYLNxtVvQfMFG0CR
 Code/Examples: DataHub April_22/   
 <br>
 Fri April 24  
-Lecture: slides  
+Lecture: <a href="https://docs.google.com/presentation/d/1MwLoxW84dbK1Yd14ewVbLeb-Fkl_VFK9xGKz7Tt18ng/edit?usp=sharing">slides</a>    
 Code/Examples: DataHub April_24/  
 <br>
 
