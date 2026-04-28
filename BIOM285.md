@@ -70,3 +70,12 @@ Lecture: <a href="https://docs.google.com/presentation/d/1MwLoxW84dbK1Yd14ewVbLe
 Code/Examples: DataHub April_24/  
 <br>
 
+<h3 id="w4">Correlation and regression</h3>
+Wed April 29  
+Lecture: <a href="https://docs.google.com/presentation/d/1abwJ6V6uE9rhe9SuyjM4QyCOTtSMjKsrwViiPxd2G4Q/edit?usp=sharing">slides</a>  
+Code/Examples: DataHub April_29/  
+<br>
+Fri May 1  
+Lecture: slides  
+Code/Examples: DataHub May_1/  
+<br>
