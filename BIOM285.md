@@ -50,7 +50,9 @@ Guide to class presentations: <a href="https://www.gaultonlab.org/BIOM285_group"
 
 <h3 id="w1">Study design in biomedical science, intro to R</h3>  
 Mon April 6 - <a href="https://docs.google.com/presentation/d/1sEwHiaLSsuctcx9hdtJfj5TMw2fU8PVoGDyr44-74p8/edit?usp=sharing">slides</a>  
+<br>
 Wed April 8 - <a href="https://docs.google.com/presentation/d/1sEwHiaLSsuctcx9hdtJfj5TMw2fU8PVoGDyr44-74p8/edit?usp=sharing">slides</a>  
+<br>
 Fri April 10- <a href="https://docs.google.com/presentation/d/1mKcM3xYT7LjwFMccFKyeFXZhx8AwC4OlQeEOi7YJ7Q8/edit?usp=sharing">slides</a> | <a href="https://docs.google.com/presentation/d/1uT3KvAJcF1V99fTDLHOm6RpgeiqrrDdd691B8cR43Nw/edit?usp=sharing">extra slides</a> | code: DataHub - *April_10/*  
 <br>
 
