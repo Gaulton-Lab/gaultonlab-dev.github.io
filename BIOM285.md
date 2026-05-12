@@ -34,6 +34,10 @@ June 1-5	- Class group presentations (class this week is Mon-Wed, no Fri)
 <a href="https://www.gaultonlab.org/BIOM285_a1_2026">Assignment 1</a> - due April 24  
 
 <a href="https://www.gaultonlab.org/BIOM285_a2_2026">Assignment 2</a> - due May 8    
+
+<a href="https://www.gaultonlab.org/BIOM285_a3_2026">Assignment 3</a> - due May 23   
+
+<a href="https://www.gaultonlab.org/BIOM285_a4_2026">Assignment 4</a> - due June 7   
   
 *Example submission:*  <a href="https://www.gaultonlab.org/example_script.R">R script</a>, <a href="https://www.gaultonlab.org/example_answer.pdf">answer</a>   
   
