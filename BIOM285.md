@@ -98,7 +98,7 @@ Code/Examples: DataHub May_8/
 
 <h3 id="w5">Linear mixed models, Intro to machine learning</h3>
 Wed May 13  
-Lecture: <a href="https://docs.google.com/presentation/d/1-QMfthQBKsd3UxtsXgq072MotPnfX9rnh3L-4yhI4VQ/edit?usp=sharing">slides</a>  
+Lecture: <a href="https://docs.google.com/presentation/d/1YYxWQMXOYplWLXP0Le5K-JBM5Kj9rL2p0Ba2BA_m9Us/edit?usp=sharing">slides</a>  
 Code/Examples: DataHub May_13/  
 <br>
 Fri May 15  
