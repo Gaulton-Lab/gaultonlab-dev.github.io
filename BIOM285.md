@@ -25,7 +25,7 @@ April 13-17	- <a href="#w2">Hypothesis testing, p-values, multiple testing</a>
 April 20-24	- <a href="#w3">Comparing means</a>  
 April 27-May 1 - <a href="#w4">Correlation, regression</a>  
 May 4-8	- <a href="#w5">Categorical data, Generalized linear models</a>  
-May 11-15	- Linear mixed models, Intro to machine learning    
+May 11-15	- <a href="#w6">Linear mixed models, Intro to machine learning</a>     
 May 18-22	- Survey of statistics in BMS  
 May 25-29	- Survey of statistics in BMS  
 June 1-5	- Class group presentations (class this week is Mon-Wed, no Fri)   
@@ -95,3 +95,14 @@ Fri May 8
 Lecture: <a href="https://docs.google.com/presentation/d/1vvD7gOCRl1BW5Zn6haQPV9yGbFNrflFPTQMqDACh41s/edit?usp=sharing">slides</a>  
 Code/Examples: DataHub May_8/  
 <br>
+
+<h3 id="w5">Linear mixed models, Intro to machine learning</h3>
+Wed May 13  
+Lecture: <a href="https://docs.google.com/presentation/d/1-QMfthQBKsd3UxtsXgq072MotPnfX9rnh3L-4yhI4VQ/edit?usp=sharing">slides</a>  
+Code/Examples: DataHub May_13/  
+<br>
+Fri May 15  
+Lecture: slides 
+Code/Examples: DataHub May_15/  
+<br>
+
