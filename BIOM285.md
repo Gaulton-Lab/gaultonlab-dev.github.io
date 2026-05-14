@@ -26,9 +26,9 @@ April 20-24	- <a href="#w3">Comparing means</a>
 April 27-May 1 - <a href="#w4">Correlation, regression</a>  
 May 4-8	- <a href="#w5">Categorical data, Generalized linear models</a>  
 May 11-15	- <a href="#w6">Linear mixed models, Intro to machine learning</a>     
-May 18-22	- Survey of statistics in BMS  
-May 25-29	- Survey of statistics in BMS  
-June 1-5	- Class group presentations (class this week is Mon-Wed, no Fri)   
+May 18-22	- <a href="#w7">Survey of statistics in BMS</a>   
+May 25-29	- <a href="#w8">Survey of statistics in BMS, Class presentations</a>   
+June 1-5	- Class presentations (class this week is Mon-Wed, no Fri)   
 
 **Assignments**:  
 <a href="https://www.gaultonlab.org/BIOM285_a1_2026">Assignment 1</a> - due April 24  
@@ -96,13 +96,30 @@ Lecture: <a href="https://docs.google.com/presentation/d/1vvD7gOCRl1BW5Zn6haQPV9
 Code/Examples: DataHub May_8/  
 <br>
 
-<h3 id="w5">Linear mixed models, Intro to machine learning</h3>
+<h3 id="w6">Linear mixed models, Intro to machine learning</h3>
 Wed May 13  
 Lecture: <a href="https://docs.google.com/presentation/d/1YYxWQMXOYplWLXP0Le5K-JBM5Kj9rL2p0Ba2BA_m9Us/edit?usp=sharing">slides</a>  
 Code/Examples: DataHub May_13/  
 <br>
 Fri May 15  
-Lecture: slides 
+Lecture: <a href="https://docs.google.com/presentation/d/1AfdDOr7H2EnQIXYCpFaiRxftPdgrf1cG9Zn4Q_Melsk/edit?usp=sharing">slides</a>   
 Code/Examples: DataHub May_15/  
 <br>
+
+<h3 id="w7">Survey of statistics in biomedical science</h3>
+Wed May 20 - Genetics  
+Emily Griffin  
+Montana Lara  
+Code/Examples: DataHub May_20/
+<br>
+Fri May 22 - Genomics
+Grace Carter  
+Weston Elison  
+Code/Examples: DataHub May_22/  
+
+<h3 id="w8">Survey of statistics in biomedical science</h3>
+Wed May 27 - Proteomics  
+Lawrence Liu  
+Safal Shrestha  
+Code/Examples: DataHub May_27/  
 
